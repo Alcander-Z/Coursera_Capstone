@@ -1,466 +1,454 @@
-,address,areas,backyard,bathrooms,bedrooms,category,floor_if_condo,municipal,price,year,lat,lng
-0,"1-5230 rue Resther, Le Plateau-Mont-Royal, QC, H2J 2W3",106.4,,2.5,2.0,Condominium,1.0,350700.0,415000,2005.0,45.5294118,-73.59027569999999
-1,"7361 av Victoria, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4P 0A7","1,073",,2.0,2.0,Condominium,7.0,,440000,2011.0,45.5001217,-73.64916509999999
-2,"104-9505 boulevard Gouin Ouest, Pierrefonds / Roxboro, QC, H8Y 1T7","1,051",,2.0,2.0,Condominium,1.0,,293000,2012.0,45.5055902,-73.77721450000001
-3,"2-1199 rue Joseph-Janot, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 4Y7",928,,1.0,2.0,Condominium,1.0,142367.0,159900,1987.0,45.6516955,-73.4964784
-4,"205-2244 rue harmony, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 3P9",786,North-West,1.0,1.0,Condominium,2.0,228800.0,289000,2004.0,45.5314683,-73.55878109999999
-5,"201-1450 12e avenue, Pointe-Aux-Trembles / Montréal-Est, QC, H1B 3Y7",900,,1.0,2.0,Condominium,2.0,,175000,2009.0,45.6427286,-73.5045894
-6,"203-4725 rue Messier, Le Plateau-Mont-Royal, QC, H2H 2J2",722,South,1.0,2.0,Condominium,2.0,,329000,2014.0,45.5381529,-73.5731141
-7,"305-9975 rue Lajeunesse, Ahuntsic / Cartierville, QC, H3L 2C9",,,1.0,2.0,Condominium,2.0,,255700,2013.0,45.5530878,-73.6601881
-8,"10016 boulevard Perras, Rivière des Prairies, QC, H1C 1Z5",1,,1.0,3.0,Condominium,1.0,,210000,2007.0,45.6596497,-73.5617517
-9,"9975 rue de Lille, Ahuntsic / Cartierville, QC, H2B 2P8",903,East,1.0,2.0,Condominium,2.0,,279000,1962.0,45.5726369,-73.6442678
-10,"206-2747 rue Hochelaga, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 1J9",864,,1.5,3.0,Condominium,2.0,244400.0,299000,2014.0,45.53742159999999,-73.557435
-11,"402-3155 3155 Avenue Ernest - Hemingway, Saint-Laurent, QC, H4R 0A2","1,040",North-East,1.5,2.0,Condominium,4.0,354300.0,389000,2006.0,45.50642879999999,-73.7183633
-12,"1-4726 rue Chabot, Le Plateau-Mont-Royal, QC, H2H 1Y3",578,South-West,1.0,1.0,Condominium,1.0,215000.0,267000,1940.0,45.535337,-73.57656100000001
-13,"3476 rue Sainte-Chaterine Est, Mercier / Hochelaga / Maisonneuve, QC, H1W 2E2",1,South-East,1.0,3.0,Condominium,1.0,,405000,1900.0,45.542062,-73.53911599999999
-14,"104-5435 RUE SAINT-DENIS, Le Plateau-Mont-Royal, QC, H2J 4B7",697.5,,1.0,2.0,Condominium,1.0,240900.0,289900,2011.0,45.5291733,-73.5939452
-15,"5151 Duchesneau, Mercier / Hochelaga / Maisonneuve, QC, H1K 0E1",825,,1.0,2.0,Condominium,1.0,216500.0,247000,2010.0,45.6116117,-73.531607
-16,"5-1815 avenue Morgan, Mercier / Hochelaga / Maisonneuve, QC, H1V 2R1",550,East,1.5,1.0,Condominium,2.0,188000.0,200000,1953.0,45.5530568,-73.5374078
-17,"602-1869 RUE BASIN, Griffintown, QC, H3J 0A3",917,South-West,1.0,2.0,Condominium,6.0,,565000,2014.0,45.4866616,-73.5670432
-18,"5-5634 RUE DE LA ROCHE, Rosemont / La Petite Patrie, QC, H2S 2C6",904,,1.0,2.0,Condominium,3.0,340000.0,450000,2013.0,45.53491990000001,-73.5929316
-19,"302-2040 AV AIRD, Mercier / Hochelaga / Maisonneuve, QC, H1V 3S7",1,,1.0,2.0,Condominium,2.0,262500.0,345000,2002.0,45.5558365,-73.5387061
-20,"D-1809 rue Masson, Le Plateau-Mont-Royal, QC, H2H 1A1",683.5,,1.0,1.0,Condominium,3.0,,282500,2013.0,45.5376307,-73.58371369999999
-21,"310-4211 rue de Rouen, Mercier / Hochelaga / Maisonneuve, QC, H1V 1G7",1,,1.0,2.0,Condominium,3.0,318700.0,380000,2009.0,45.5525285,-73.5442444
-22,"2-785 32e Avenue, Lachine, QC, H8T 3R9",875.86,,1.0,2.0,Condominium,1.0,240800.0,338000,2007.0,45.44256379999999,-73.6928076
-23,"4981 avenue Victoria, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3W 2N2",1,North-East,2.0,3.0,Condominium,1.0,632500.0,777000,1928.0,45.4877822,-73.62243959999999
-24,"2227 rue Florian, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 2P4",684,,1.0,2.0,Condominium,3.0,193100.0,234000,1910.0,45.5382074,-73.5525838
-25,"301-3330 rue Dandurand, Rosemont / La Petite Patrie, QC, H1X 1M6",772,,1.0,2.0,Condominium,3.0,300000.0,315000,2012.0,45.5402111,-73.5842174
-26,"607-8050 rue Jean-Chevalier, LaSalle, QC, H8N 0E3",860,,1.0,1.0,Condominium,6.0,,315000,2016.0,45.43138219999999,-73.6157995
-27,"A-4300 AV ISABELLA, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3T 1N6",979,,2.0,2.0,Condominium,,,425000,2019.0,45.4931446,-73.62528859999999
-28,"4300 avenue Isabella, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3T 1N6",1,,2.0,0.0,Condominium,1.0,900800.0,750000,2019.0,45.4931446,-73.62528859999999
-29,"2502-3535 Avenue Papineau, Le Plateau-Mont-Royal, QC, H2K 4J9",527,East,1.0,1.0,Condominium,25.0,192800.0,225000,1972.0,45.5292442,-73.5660134
-30,"213-2125 rue Remembrance, Lachine, QC, H8S 1X4",954.76,,1.0,2.0,Condominium,2.0,,295000,2012.0,45.4377273,-73.6835651
-31,"3-4816 rue de Chambly, Rosemont / La Petite Patrie, QC, H1X 3N8",1,South-West,1.0,3.0,Condominium,2.0,332800.0,398500,1999.0,45.5523384,-73.5642317
-32,"102-2000 rue Falardeau, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 2L8",81.3,,1.0,2.0,Condominium,,,369000,2014.0,45.5236417,-73.54915559999999
-33,"303-995 boulevard Jules-Poitras, Saint-Laurent, QC, H4N 3M2",595,,1.0,1.0,Condominium,3.0,182000.0,224000,2006.0,45.5255594,-73.6701148
-34,"6517 rue Cartier, Rosemont / La Petite Patrie, QC, H2G 2V8",1,,1.0,2.0,Condominium,1.0,,338700,1998.0,45.5439806,-73.5962672
-35,"5886 rue de Saint-Vallier, Rosemont / La Petite Patrie, QC, H2S 2P3",958,South-West,1.0,2.0,Condominium,3.0,343200.0,425000,1927.0,45.532222,-73.599249
-36,"301-2310 rue Modigliani, Saint-Laurent, QC, H4R 0J1",1,,1.0,2.0,Condominium,3.0,,425000,2011.0,45.5112618,-73.71777019999999
-37,"709-5661 avenue de Chateaubriand, Rosemont / La Petite Patrie, QC, H2S 0B6",1,South-West,2.0,2.0,Condominium,7.0,517800.0,612500,2011.0,45.5320984,-73.59543579999999
-38,"5-775 32e avenue, Lachine, QC, H8T 3R9",953,West,1.5,2.0,Condominium,3.0,,299900,2008.0,45.4421889,-73.6930402
-39,"2-5149 9e Avenue, Rosemont / La Petite Patrie, QC, H1Y 2J5",958,South-East,1.5,2.0,Condominium,1.0,,424900,2014.0,45.5491873,-73.5713294
-40,"83 avenue Beaumont, Rosemont / La Petite Patrie, QC, H2S 1J2",825,North-West,1.0,2.0,Condominium,,263500.0,309000,2008.0,45.53179069999999,-73.61588449999999
-41,"305-3300 avenue Troie, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3V 1A9",650,,1.0,1.0,Condominium,3.0,328100.0,349000,2013.0,45.4960428,-73.6170862
-42,"322-3702 rue Sainte-Émilie, Le Sud-Ouest, QC, H4C 1Z6",,,1.0,2.0,Condominium,3.0,,465000,2015.0,45.4783825,-73.5796026
-43,"202-5330 rue Drolet, Le Plateau-Mont-Royal, QC, H2T 2H4",856,East,1.0,2.0,Condominium,1.0,,430000,1995.0,45.5276946,-73.5934761
-44,"205-3591 boulevard Gouin Est, Montréal-Nord, QC, H1H 5V7",1,,2.0,2.0,Condominium,2.0,273600.0,309000,1992.0,45.59126939999999,-73.64990089999999
-45,"203-1805 boulevard du Tricentenaire, Pointe-Aux-Trembles / Montréal-Est, QC, H1B 5S5",1,,1.0,3.0,Condominium,2.0,174300.0,193000,1984.0,45.6836595,-73.5030337
-46,"3974 rue Claude-Mouton, Rosemont / La Petite Patrie, QC, H1X 3N7","2,198",South,2.0,3.0,Condominium,1.0,,549000,1997.0,45.5607558,-73.578046
-47,"915 avenue Pratt, Outremont, QC, H2V 2T9",1,North-East,2.0,4.0,Condominium,1.0,,978000,1925.0,45.5154124,-73.62241809999999
-48,"2714 boulevard Saint-Joseph Est, Rosemont / La Petite Patrie, QC, H1Y 2A8",491,,1.0,1.0,Condominium,,,250000,1957.0,45.5450171,-73.5707528
-49,"2-2140 rue Victoria, Lachine, QC, H8S 1Z3",818,North,1.0,2.0,Condominium,1.0,,206000,2010.0,45.4358808,-73.6839131
-50,"6650 rue Garnier, Rosemont / La Petite Patrie, QC, H2G 3A1",922,South-West,1.5,2.0,Condominium,,,425000,1952.0,45.542358,-73.60085699999999
-51,"114-88 rue Gary-Carter, Villeray / St-Michel / Parc-Extension, QC, H2R 2V7",578,South,1.0,1.0,Condominium,,248000.0,319000,2017.0,45.5348944,-73.6224943
-52,"201-5250 rue Resther, Le Plateau-Mont-Royal, QC, H2J 2W4",581.25,West,1.0,1.0,Condominium,2.0,,349000,2007.0,45.5296587,-73.59077529999999
-53,"5500 rue de Contrecoeur, Mercier / Hochelaga / Maisonneuve, QC, H1K 0E4",425,,1.0,0.0,Condominium,,,148900,2010.0,45.6135723,-73.5351786
-54,"2-2505 rue la Fontaine, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 2A4",1,,1.0,2.0,Condominium,,209700.0,259900,2001.0,45.5314568,-73.55041489999999
-55,"210-4675 rue Messier, Le Plateau-Mont-Royal, QC, H2H 2J2",1,North,2.0,3.0,Condominium,2.0,,474900,2015.0,45.5380323,-73.5725109
-56,"01-4235 rue de Chambly, Rosemont / La Petite Patrie, QC, H1X 3J8",89.5,East,1.0,2.0,Condominium,,,262500,1987.0,45.5507629,-73.56000399999999
-57,", Le Sud-Ouest, QC, ",603,North,1.0,1.0,Condominium,7.0,201600.0,nformation provided by the seller,2011.0,45.466107,-73.5938658
-58,"202-5990 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC, H1N 1X4",579,,1.0,1.0,Condominium,2.0,152800.0,178000,2010.0,45.5838407,-73.52906779999999
-59,"2199 boulevard de Maisonneuve Est, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 2E4",872,North,1.0,2.0,Condominium,1.0,310500.0,349000,2003.0,45.52702559999999,-73.5505359
-60,"5-4860 Avenue Henri-Julien, Le Plateau-Mont-Royal, QC, H2T 2E1",663,South,1.0,1.0,Condominium,3.0,339600.0,355000,1995.0,45.5300013,-73.5996724
-61,"206-4200 rue Saint-Ambroise, Le Sud-Ouest, QC, H4C 3R7",710,,1.0,1.0,Condominium,2.0,243000.0,330000,2005.0,45.47394509999999,-73.5810326
-62,"17-4119 avenue Madison, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4B 2T8",800,South,1.0,2.0,Condominium,1.0,246000.0,419999,1989.0,45.46698550000001,-73.6272918
-63,"4398 avenue Marcil, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4A 2Z8",1,South-West,1.0,3.0,Condominium,2.0,480000.0,589000,1927.0,45.4763796,-73.6245777
-64,"1113-479 avenue Mousseau-Vermette, Dorval / L'Île Dorval, QC, H9S 0A6",64.8,,1.0,1.0,Condominium,1.0,,213500,2010.0,45.4476564,-73.7271162
-65,"1-450 rue Sherbrooke, Lachine, QC, H8S 1G4",950,,1.0,2.0,Condominium,,194900.0,238500,2006.0,45.4452538,-73.6679654
-66,"101-920 avenue McEachran, Outremont, QC, H2V 3E2",1,West,2.0,3.0,Condominium,,652400.0,849000,2005.0,45.519416,-73.61947409999999
-67,"3532 rue Cartier, Le Plateau-Mont-Royal, QC, H2K 4G2",922.5,South-West,1.0,2.0,Condominium,2.0,,405000,1908.0,45.52958,-73.56570289999999
-68,"504-288 rue Ann, Griffintown, QC, H3C 0L3",678,South-West,1.0,2.0,Condominium,5.0,,390000,2013.0,45.49521180000001,-73.55888259999999
-69,"202-16065 rue Eugénie-Tessier, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 0A2",76.7,,1.0,2.0,Condominium,1.0,171200.0,169500,2005.0,45.6956509,-73.4889219
-70,"1118 Rue Robin, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 1W3",930,South-West,1.0,2.0,Condominium,2.0,,424900,2015.0,45.5193989,-73.56033339999999
-71,"805-5105 boulevard de l'Assomption, Rosemont / La Petite Patrie, QC, H1T 4B4",1,West,1.5,2.0,Condominium,8.0,,379000,1990.0,45.5721326,-73.5551302
-72,"1611-1450 boulevard René-Lévesque Ouest, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3G 1T6",653,,1.0,1.0,Condominium,16.0,,508000,2017.0,45.49456180000001,-73.57386
-73,"A-4064 avenue du parc-La Fontaine, Le Plateau-Mont-Royal, QC, H2L 3M8",666,South-West,1.0,1.0,Condominium,,256300.0,289000,1993.0,45.5245447,-73.5728469
-74,"521-1000 rue Ottawa, Griffintown, QC, H3C 0P3",511,West,1.0,1.0,Condominium,5.0,197100.0,318000,2014.0,45.4948127,-73.5585092
-75,"302-10294 boulevard Saint-Laurent, Ahuntsic / Cartierville, QC, H3L 2N8",82,South-West,2.0,2.0,Condominium,3.0,,375000,2014.0,45.5481659,-73.66417489999999
-76,"5411 12e Avenue, Rosemont / La Petite Patrie, QC, H1X 1R5",512,,1.0,1.0,Condominium,,176100.0,177000,2016.0,45.5515386,-73.5726352
-77,"439-7040 rue Allard, LaSalle, QC, H8N 0C9",845,,1.0,1.0,Condominium,4.0,,399000,2015.0,45.4483813,-73.607398
-78,"2-213 boulevard Bouchard, Dorval / L'Île Dorval, QC, H9S 1A9","1,143",,2.0,3.0,Condominium,1.0,,395000,2013.0,45.4466101,-73.7288568
-79,"301-9200 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC, H1L 0B2",1,South-East,1.0,2.0,Condominium,3.0,,355000,2015.0,45.5839352,-73.5288946
-80,"3244 avenue Mercier, Mercier / Hochelaga / Maisonneuve, QC, H1L 5J4",1,,1.0,2.0,Condominium,1.0,,299000,2010.0,45.6014245,-73.5313651
-81,"204-1012 rue Saint-Zotique Est, Rosemont / La Petite Patrie, QC, H2S 1N2",760,,1.0,2.0,Condominium,2.0,,321000,2014.0,45.5336053,-73.6101858
-82,"4416 rue Fabre, Le Plateau-Mont-Royal, QC, H2J 3V3",840,,1.0,2.0,Condominium,2.0,,365000,1927.0,45.5308577,-73.5747597
-83,"407-630 rue William, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3C 4C9",430,,1.0,1.0,Condominium,4.0,,268800,2006.0,45.4992501,-73.5562928
-84,"201-1440 rue Tillemont, Villeray / St-Michel / Parc-Extension, QC, H2E 3B3",939,South-West,1.0,2.0,Condominium,1.0,283500.0,324500,2001.0,45.549619,-73.61782590000001
-85,"7710 avenue de Chateaubriand, Villeray / St-Michel / Parc-Extension, QC, H2R 2M3",763,,1.0,2.0,Condominium,2.0,,295000,1920.0,45.5436209,-73.6218908
-86,"405-5435 rue Saint-Denis, Le Plateau-Mont-Royal, QC, H2J 4B7",673,,1.0,2.0,Condominium,4.0,251100.0,297500,2011.0,45.5292622,-73.5938623
-87,"602-71 rue Duke, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3C 0L5",364,,1.0,1.0,Condominium,6.0,,250000,2012.0,45.4961064,-73.5548831
-88,"6455 Avenue Coolbrook, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3X 2N3",950.45,North-East,1.0,2.0,Condominium,2.0,,467000,2016.0,45.4900284,-73.64593459999999
-89,"1954 rue Panet, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 3A2",929,West,1.0,1.0,Condominium,2.0,,379000,1900.0,45.5226376,-73.5608337
-90,"903-1280 rue Saint-Jacques, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3C 0G1",700,,1.0,1.0,Condominium,9.0,305400.0,374900,2006.0,45.4980705,-73.5635557
-91,"205-3445 rue Drummond, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3G 1X9",1,,2.0,2.0,Condominium,2.0,,475000,1958.0,45.5014023,-73.5795225
-92,"307-1550 boulevard Henri-Bourassa Ouest, Ahuntsic / Cartierville, QC, H3M 3G4",805.14,,1.0,2.0,Condominium,3.0,,215000,2005.0,45.5462242,-73.6737472
-93,"7-2121 rue Disraeli, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 0A6",1,West,1.5,2.0,Condominium,3.0,347200.0,400000,2011.0,45.5278229,-73.555381
-94,"1102-1740 rue Saint-Patrick, Le Sud-Ouest, QC, H3K 0B3",757,South-West,1.0,2.0,Condominium,11.0,316600.0,415000,2015.0,45.4852396,-73.5629974
-95,"302-9120 avenue Cérès, Pierrefonds / Roxboro, QC, H8Y 3N7","1,500",South,1.0,2.0,Condominium,3.0,,335888,1989.0,45.5009112,-73.7794412
-96,"1-4484 boulevard LaSalle, Verdun, QC, H4G 2A8",753,South-East,1.0,1.0,Condominium,,167000.0,250000,1987.0,45.4589691,-73.5630106
-97,"3458 rue Dorion, Le Plateau-Mont-Royal, QC, H2K 4B6",914,South-West,1.0,2.0,Condominium,2.0,,337000,1915.0,45.5297237,-73.5645186
-98,"201-4878 avenue Henri-Julien, Le Plateau-Mont-Royal, QC, H2T 2E1",680,,1.0,1.0,Condominium,2.0,,325000,2009.0,45.5245615,-73.5881251
-99,"105-211 rue Gordon, Verdun, QC, H4G 2R2",65.3,South,1.0,1.0,Condominium,1.0,,330000,2014.0,45.4610716,-73.5649095
-100,"408-1869 rue Basin, Griffintown, QC, H3J 0A3",592,North,1.0,1.0,Condominium,4.0,,375000,2014.0,45.4866616,-73.5670432
-101,"902-2110 rue Caroline-Beique, Ahuntsic / Cartierville, QC, H4N 3K5",912,North-East,1.0,2.0,Condominium,9.0,,330000,2011.0,45.5336372,-73.6731183
-102,"208-334 rue Notre-Dame Est, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2Y 1C7",687,South-East,1.5,1.0,Condominium,2.0,,399000,2005.0,45.50836229999999,-73.5539416
-103,"503-11891 rue Lachapelle, Ahuntsic / Cartierville, QC, H4J 2M2",73.4,,1.0,2.0,Condominium,4.0,216200.0,225000,2010.0,45.52582,-73.71279750000001
-104,"214-4550 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC, H1V 1C5",800,East,1.0,2.0,Condominium,2.0,,315000,2012.0,45.5571705,-73.54449319999999
-105,"314A rue du Square-Saint-Louis, Le Plateau-Mont-Royal, QC, H2X 1A5",943,South-East,1.0,2.0,Condominium,1.0,,369000,1885.0,45.5168052,-73.5693509
-106,"105-10150 place de l'Acadie, Ahuntsic / Cartierville, QC, H4N 0C5",851,South-West,1.0,2.0,Condominium,1.0,,289000,2014.0,45.5329387,-73.6810033
-107,"#3-3774 rue Ontario Est, Mercier / Hochelaga / Maisonneuve, QC, H1W 1S2",785,,1.0,2.0,Condominium,3.0,245000.0,285000,2008.0,45.5468725,-73.5435825
-108,"502-6715 boulevard Maurice-Duplessis, Montréal-Nord, QC, H1G 1Z5",808,,1.0,2.0,Condominium,5.0,212800.0,224900,2012.0,45.6176271,-73.61440370000001
-109,"4489 rue Parthenais, Le Plateau-Mont-Royal, QC, H2H 2G6",885,,1.0,3.0,Condominium,2.0,,379000,1910.0,45.5363854,-73.5706525
-110,"304-21 rue Sherbrooke Est, Le Plateau-Mont-Royal, QC, H2X 3V8",979.1,North-West,1.5,3.0,Condominium,3.0,338500.0,414000,1985.0,45.5158986,-73.5676723
-111,"8178 avenue Casgrain, Villeray / St-Michel / Parc-Extension, QC, H2P 2K5",1,South-West,1.5,3.0,Condominium,1.0,515000.0,614000,1926.0,45.5402905,-73.6322409
-112,"1434 rue Fullum, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 3M1",1,South-West,1.5,3.0,Condominium,2.0,,429900,1860.0,45.527429,-73.5489795
-113,"107-200 rue Berlioz, L'Ile Des Soeurs, QC, H3E 1C1",1,North-East,2.0,2.0,Condominium,1.0,,458000,1984.0,45.4629375,-73.5428021
-114,"402-7415 rue Cléophée-Têtu, Mercier / Hochelaga / Maisonneuve, QC, H1N 0B4",912,East,1.0,2.0,Condominium,4.0,242600.0,269000,2009.0,45.5911965,-73.5350603
-115,"601-440 19e Avenue, Lachine, QC, H8S 3S2",599,,1.0,1.0,Condominium,6.0,229100.0,224900,2014.0,45.4401654,-73.6813416
-116,"110-2500 avenue Pierre-Dupuy, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3C 4L1",1,South,1.5,1.0,Condominium,1.0,465000.0,475000,1989.0,45.4972735,-73.5440763
-117,"707-100 rue André-Prévost, L'Ile Des Soeurs, QC, H3E 0C3",874,North-East,1.0,1.0,Condominium,7.0,,467000,2014.0,45.4491459,-73.5603278
-118,"A-5549 10e Avenue, Rosemont / La Petite Patrie, QC, H1Y 2G9",890,,1.0,2.0,Condominium,,,234500,1950.0,45.5510954,-73.5758113
-119,"111-4950 rue de la Savane, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4P 1T7",82.3,,1.0,2.0,Condominium,1.0,222600.0,329000,2008.0,45.4998644,-73.6528699
-120,"462-1077 rue Saint-Mathieu, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3H 2S4",872,,1.0,1.0,Condominium,4.0,282700.0,429000,1987.0,45.4918874,-73.5756121
-121,"5-1490 rue Saint-Jacques, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3C 4J4",1,,1.0,2.0,Condominium,2.0,,624900,1985.0,45.4983859,-73.56338459999999
-122,"1104-7280 boulevard des Galeries d'Anjou, Anjou, QC, H1M 3Y1",1,,1.0,2.0,Condominium,11.0,294800.0,339000,2006.0,45.5964963,-73.5623049
-123,"3992 avenue des Érables, Le Plateau-Mont-Royal, QC, H2K 3V8",52.8,South-West,1.0,1.0,Condominium,2.0,235000.0,317000,1998.0,45.532442,-73.565038
-124,"303-1960 rue Saint-Jacques, Le Sud-Ouest, QC, H3J 2S1",744,,1.0,1.0,Condominium,3.0,,329000,1985.0,45.5026673,-73.55927439999999
-125,"410-1811 rue William, Le Sud-Ouest, QC, H3J 0A7",914,South-West,1.0,2.0,Condominium,4.0,391600.0,579000,2013.0,45.4875987,-73.5672745
-126,"303-126 boulevard Hymus, Pointe-Claire, QC, H9R 1E8",900,South,1.0,1.0,Condominium,3.0,285000.0,284999,2011.0,45.4669286,-73.80636299999999
-127,"6543 avenue des Ormeaux, Anjou, QC, H1K 2X4",747,,1.5,2.0,Condominium,,192000.0,182000,2013.0,45.6109721,-73.5465341
-128,"9460 rue Myra-Cree, Mercier / Hochelaga / Maisonneuve, QC, H1K 0C9",817,South-West,1.0,2.0,Condominium,1.0,,259500,2010.0,45.6125056,-73.5314899
-129,", Verdun, QC, ",102.5,,1.0,2.0,Condominium,1.0,299300.0,nformation provided by the seller,2004.0,45.4548269,-73.5698729
-130,"520-4225 rue Saint-Dominique, Le Plateau-Mont-Royal, QC, H2W 2T5",982,,1.0,1.0,Condominium,5.0,419900.0,568000,2005.0,45.5187129,-73.5814587
-131,"608-1910 rue Basin, Griffintown, QC, H3J 1S5",890,North-East,2.0,2.0,Condominium,6.0,,599000,2017.0,45.485982,-73.567533
-132,", Lachine, QC, ",819,,1.0,2.0,Condominium,2.0,,nformation provided by the seller,2005.0,45.441347,-73.68858469999999
-133,"405-865 avenue Plymouth, Mont-Royal, QC, H4P 1B2",1,West,2.0,2.0,Condominium,4.0,395800.0,565000,2013.0,45.50502059999999,-73.6614343
-134,"1826 rue de la Visitation, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 3C4",120,East,1.0,2.0,Condominium,1.0,,469000,2001.0,45.521304,-73.5602399
-135,"E-202-50 chemin Bates, Outremont, QC, H2V 1A8",108.7,,2.0,2.0,Condominium,2.0,,555000,2001.0,45.5175275,-73.62515259999999
-136,"104-2000 avenue Claremont, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3Z 2P8",1,,2.0,2.0,Condominium,1.0,,559000,2007.0,45.4759949,-73.602747
-137,"1601-1000 rue Ottawa, Griffintown, QC, H3C 0P3",731,,1.0,2.0,Condominium,16.0,,497000,2014.0,45.4948127,-73.5585092
-138,"103-21 rue Sherbrooke Est, Le Plateau-Mont-Royal, QC, H2X 3V8",796,,1.0,2.0,Condominium,1.0,293600.0,360000,1985.0,45.5137083,-73.569177
-139,"4337 rue Joliette, Rosemont / La Petite Patrie, QC, H1X 3L8",1,West,1.5,2.0,Condominium,,,293000,1988.0,45.550815,-73.561949
-140,"4-183 boulevard Bouchard, Dorval / L'Île Dorval, QC, H9S 1A9",961,,1.0,2.0,Condominium,2.0,276500.0,345000,2011.0,45.4462588,-73.7275602
-141,"608-888 rue Wellington, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3C 0N1",549,South-West,1.0,1.0,Condominium,6.0,264600.0,305000,2015.0,45.4964715,-73.5554763
-142,"12088 avenue Savard, Montréal-Nord, QC, H1H 3N2",1,North-West,1.0,2.0,Condominium,3.0,250000.0,320000,1986.0,45.6023833,-73.6421316
-143,"7-1355 rue Georges-Vermette, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 4Y5",86.31,,1.0,2.0,Condominium,2.0,156900.0,169000,1987.0,45.6529917,-73.5016036
-144,"102-2823 rue Jacques-Hertel, Le Sud-Ouest, QC, H4E 1S8",586,North,1.0,1.0,Condominium,1.0,,249000,2010.0,45.4590851,-73.600962
-145,"3-4515 rue André-Laurendeau, Rosemont / La Petite Patrie, QC, H1Y 3R6",98.8,South-East,1.5,2.0,Condominium,2.0,,472000,2005.0,45.5445461,-73.5670157
-146,"101-4900 boulevard de l'Assomption, Rosemont / La Petite Patrie, QC, H1T 0A2",85.4,,1.5,2.0,Condominium,1.0,380400.0,425000,2011.0,45.5696922,-73.5555086
-147,"1506-6900 boulevard Gouin Est, Montréal-Nord, QC, H1G 6L9",1,South-West,1.0,2.0,Condominium,15.0,273600.0,269000,1982.0,45.6274668,-73.6203917
-148,"825-1500 rue Basin, Griffintown, QC, H3C 0N3",663,,1.0,1.0,Condominium,8.0,,390000,2014.0,45.4895353,-73.5613743
-149,"3310-3111 rue Victoria, Lachine, QC, H8S 0B1",787,West,1.0,1.0,Condominium,3.0,,254500,2013.0,45.43769930000001,-73.6935561
-150,"101-4785 rue Messier, Le Plateau-Mont-Royal, QC, H2H 2J2",703,,1.0,2.0,Condominium,1.0,296500.0,325000,2010.0,45.53853549999999,-73.5738511
-151,"3514 rue de Bordeaux, Le Plateau-Mont-Royal, QC, H2K 3Z3",493,West,1.0,1.0,Condominium,3.0,,199900,1922.0,45.5306298,-73.5649215
-152,"219-750 32e Avenue, Lachine, QC, H8T 0A2",654,,1.0,1.0,Condominium,2.0,,254000,2013.0,45.4476071,-73.69318779999999
-153,"405-2305 rue Remembrance, Lachine, QC, H8S 0A9",985,,1.0,2.0,Condominium,4.0,,288000,2012.0,45.4376925,-73.6845719
-154,"109-4310 rue Saint-Jacques, Le Sud-Ouest, QC, H4C 1J6",1,,2.0,2.0,Condominium,1.0,489000.0,655000,2017.0,45.4766381,-73.58825949999999
-155,"3519 rue Cartier, Le Plateau-Mont-Royal, QC, H2K 4G1",1,East,1.0,4.0,Condominium,1.0,,400000,1910.0,45.52969359999999,-73.5652803
-156,"402-1550 boulevard Henri-Bourassa Ouest, Ahuntsic / Cartierville, QC, H3M 3G4",885.87,South-East,1.0,2.0,Condominium,4.0,,249990,2005.0,45.5444673,-73.6743953
-157,"2735 rue des Equinoxes, Saint-Laurent, QC, H4R 0C8",1,North,1.5,3.0,Condominium,,397800.0,489000,2010.0,45.51388,-73.71767109999999
-158,"R2-5375 rue Beaubien Est, Rosemont / La Petite Patrie, QC, H1T 1W4",87.9,West,1.0,2.0,Condominium,,267800.0,269900,2006.0,45.5751956,-73.56896259999999
-159,", Rosemont / La Petite Patrie, QC, ",936,West,1.0,2.0,Condominium,4.0,,nformation provided by the seller,2013.0,45.5517018,-73.5836271
-160,"C301-50 chemin Bates, Outremont, QC, H2V 1A8",900,,1.0,2.0,Condominium,3.0,,395000,2001.0,45.5175275,-73.62515259999999
-161,"205-11131 rue Meighen, Pierrefonds / Roxboro, QC, H8Y 3H7",970,,2.0,2.0,Condominium,2.0,,299900,2013.0,45.5128905,-73.8151985
-162,"113-930 boulevard Marcel-Laurin, Saint-Laurent, QC, H4M 0A3",869.73,North-East,1.0,2.0,Condominium,1.0,,275000,2007.0,45.5033221,-73.6708975
-163,"204-7230 rue Alexandra, Villeray / St-Michel / Parc-Extension, QC, H2R 2Z2",71.5,,1.0,2.0,Condominium,2.0,,425000,2015.0,45.5326171,-73.6213049
-164,"5778 avenue des Érables, Rosemont / La Petite Patrie, QC, H2G 2M1",930,,1.0,3.0,Condominium,1.0,323300.0,400000,1940.0,45.5424473,-73.58649079999999
-165,"407-10681 rue de Martigny, Ahuntsic / Cartierville, QC, H2B 2M8",771,,1.0,2.0,Condominium,4.0,,289000,2013.0,45.5754402,-73.6549426
-166,"505-199 rue de la Rotonde, L'Ile Des Soeurs, QC, H3E 0C1",820,South-East,1.0,2.0,Condominium,5.0,,449000,2012.0,45.4734305,-73.5382415
-167,", Mercier / Hochelaga / Maisonneuve, QC, ",60.3,,1.0,2.0,Condominium,1.0,178700.0,nformation provided by the seller,2010.0,45.5729775,-73.5307953
-168,"B-5700 avenue Christophe-Colomb, Rosemont / La Petite Patrie, QC, H2S 2G1",1,North-West,1.0,3.0,Condominium,1.0,380400.0,595000,2002.0,45.534178,-73.5939576
-169,"4162 rue Adam, Mercier / Hochelaga / Maisonneuve, QC, H1V 1S7",750,South-East,1.0,2.0,Condominium,3.0,264100.0,315000,1907.0,45.5496,-73.5366001
-170,"507-7270 avenue de Beaufort, Anjou, QC, H1M 3W4",1,,1.0,2.0,Condominium,5.0,,360000,2002.0,45.59505679999999,-73.5620948
-171,"1501-100 rue André-Prevost, L'Ile Des Soeurs, QC, H3E 0C3",2,,2.5,3.0,Condominium,15.0,,1315000,2013.0,45.4491459,-73.5603278
-172,"410-1830 rue Panet, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 0G1",51.9,,1.0,1.0,Condominium,4.0,283200.0,320000,1913.0,45.5222743,-73.56005259999999
-173,"6-204 rue Villeray, Villeray / St-Michel / Parc-Extension, QC, H2R 1G5",900,South,1.0,2.0,Condominium,2.0,,430000,1930.0,45.5372842,-73.6248353
-174,"5262 rue Fabre, Le Plateau-Mont-Royal, QC, H2J 3W5",2,West,3.0,3.0,Condominium,1.0,520000.0,760000,1922.0,45.53559080000001,-73.585081
-175,"4768 rue Notre-Dame Ouest, Le Sud-Ouest, QC, H4C 1S8",100,South-East,1.0,3.0,Condominium,1.0,,449000,1913.0,45.4720402,-73.58926129999999
-176,"9589 rue Bellerive, Mercier / Hochelaga / Maisonneuve, QC, H1L 3T1",912,North,1.5,2.0,Condominium,1.0,245000.0,249000,2008.0,45.60945840000001,-73.5094546
-177,"3-1385 avenue Laurier Est, Le Plateau-Mont-Royal, QC, H2J 1H6",74.5,,1.5,1.0,Condominium,2.0,268900.0,329000,2007.0,45.5230584,-73.5928076
-178,"750 rue Amherst, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 5C9",106.7,,1.0,3.0,Condominium,1.0,,449000,2004.0,45.5145455,-73.5510407
-179,"9450 rue Rousseau, Mercier / Hochelaga / Maisonneuve, QC, H1K 0E6",89.4,,1.0,3.0,Condominium,2.0,249000.0,269900,2009.0,45.6122879,-73.5365291
-180,"311-11401 rue de la Gauchetière, Pointe-Aux-Trembles / Montréal-Est, QC, H1B 2H1",889.1,,1.0,2.0,Condominium,2.0,165800.0,179900,2006.0,45.6326822,-73.50065289999999
-181,"B405-2635 rue Rufus-Rockhead, Le Sud-Ouest, QC, H3J 2W6",938,,1.0,1.0,Condominium,4.0,264800.0,389000,1989.0,45.4807482,-73.5743028
-182,", Mercier / Hochelaga / Maisonneuve, QC, ","1,021",South-West,1.0,2.0,Condominium,,247100.0,nformation provided by the seller,2000.0,45.5729775,-73.5307953
-183,"305-895 rue Muir, Saint-Laurent, QC, H4L 5P4",82.1,East,1.0,2.0,Condominium,3.0,,318000,2005.0,45.5234139,-73.6702128
-184,"218-3625 rue Jean-Gascon, Saint-Laurent, QC, H4R 0K6",764,,1.0,1.0,Condominium,2.0,215000.0,305000,2015.0,45.5105105,-73.7198927
-185,"1-2192 rue Théodore, Mercier / Hochelaga / Maisonneuve, QC, H1V 3C3",980,West,1.0,2.0,Condominium,,,322000,2017.0,45.5584897,-73.5390072
-186,"9461 rue J.-P. Ronfard, Mercier / Hochelaga / Maisonneuve, QC, H1K 0E3",827.74,,1.0,2.0,Condominium,1.0,229100.0,219000,2009.0,45.6128683,-73.5354
-187,"120-4605 boulevard Henri-Bourassa Ouest, Saint-Laurent, QC, H4L 5H2",89.3,,1.0,2.0,Condominium,1.0,205500.0,249000,1989.0,45.5237981,-73.7045183
-188,"408-3300 avenue Troie, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3V 1A9",527,,1.0,1.0,Condominium,4.0,339400.0,368000,2013.0,45.4960428,-73.6170862
-189,"301-10150 place de l'Acadie, Ahuntsic / Cartierville, QC, H4N 0C5",,,1.0,2.0,Condominium,3.0,,260000,2014.0,45.5329387,-73.6810033
-190,"310-2530 place Michel-Brault, Rosemont / La Petite Patrie, QC, H1Y 0B6",800,,1.0,3.0,Condominium,3.0,,358000,2015.0,45.5421071,-73.5737322
-191,"508-2110 rue Caroline-Béique, Ahuntsic / Cartierville, QC, H4N 3K2",959,,1.0,2.0,Condominium,5.0,258000.0,299900,2011.0,45.5336372,-73.6731183
-192,"707-4255 avenue Prince-of-Wales, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4B 0A2",917,East,1.0,3.0,Condominium,3.0,250000.0,400000,2008.0,45.4638885,-73.6314366
-193,"514-2530 place Michel-Brault, Rosemont / La Petite Patrie, QC, H1Y 0B6",64.4,West,1.0,2.0,Condominium,5.0,,375000,2013.0,45.5421071,-73.5737322
-194,"403-4725 rue Messier, Le Plateau-Mont-Royal, QC, H2H 2J2",792,,1.0,2.0,Condominium,4.0,,389000,2014.0,45.5381529,-73.5731141
-195,"101-14522 rue Bernard-Geoffrion, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 0B6",85.4,South-East,1.0,2.0,Condominium,,,227000,2014.0,45.6757082,-73.49442309999999
-196,"202-680 chemin du Bord du Lac, Dorval / L'Île Dorval, QC, H9S 2B8",835,North,1.5,2.0,Condominium,2.0,,345995,2013.0,45.43363309999999,-73.8120936
-197,"2045 rue Réal-Benoit, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5J4",990,,1.0,2.0,Condominium,1.0,137100.0,165000,1994.0,45.6770455,-73.5016511
-198,"1402-6900 boulevard Gouin Est, Montréal-Nord, QC, H1G 6L9",1,,2.0,3.0,Condominium,14.0,395000.0,379000,1982.0,45.6274668,-73.6203917
-199,"5698 place de Jumonville, Rosemont / La Petite Patrie, QC, H1M 3W2","1,150",,1.0,2.0,Condominium,2.0,,329000,1984.0,45.5738739,-73.55194759999999
-200,"2098A rue Davidson, Mercier / Hochelaga / Maisonneuve, QC, H1W 2Y8",1,South-West,2.0,2.0,Condominium,1.0,,398500,1911.0,45.543291,-73.54777
-201,"5049 rue de Lanaudière, Le Plateau-Mont-Royal, QC, H2J 3P9",625,East,1.0,1.0,Condominium,3.0,,299000,1924.0,45.5331789,-73.58290099999999
-202,"505-4260 rue de Rouen, Mercier / Hochelaga / Maisonneuve, QC, H1V 1G9",940,,2.0,2.0,Condominium,4.0,328700.0,360000,2014.0,45.55318,-73.5435193
-203,"302-14241 boulevard Cavendish, Saint-Laurent, QC, H4R 0E9",1,,1.0,2.0,Condominium,3.0,,415000,2011.0,45.5100596,-73.71806509999999
-204,"201-1844 rue des Carrières, Rosemont / La Petite Patrie, QC, H2G 1W3",1,South-East,2.0,3.0,Condominium,1.0,429900.0,439000,2008.0,45.539748,-73.587638
-205,"2520 rue Monsabré, Mercier / Hochelaga / Maisonneuve, QC, H1N 2K6","1,100",West,1.0,2.0,Condominium,1.0,216300.0,270000,2013.0,45.5705842,-73.5382259
-206,"106-490 boulevard Galland, Dorval / L'Île Dorval, QC, H9S 5T3",770,,1.0,1.0,Condominium,,,172500,1988.0,45.4480363,-73.72471019999999
-207,"1514 avenue Yves-Thériault, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5L5",,North-East,1.0,2.0,Condominium,1.0,,169900,1992.0,45.678301,-73.4971628
-208,"102-14450 rue Bernard-Geoffrion, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 0B6",1,South,1.0,2.0,Condominium,1.0,240000.0,245000,2013.0,45.674842,-73.49486089999999
-209,"2110-479 avenue Mousseau-Vermette, Dorval / L'Île Dorval, QC, H9S 0A6",57.9,,1.0,1.0,Condominium,1.0,197900.0,222900,2012.0,45.4476564,-73.7271162
-210,"2109 rue Baldwin, Mercier / Hochelaga / Maisonneuve, QC, H1L 5A5",1,,1.0,2.0,Condominium,2.0,,257000,2006.0,45.5985444,-73.5145383
-211,"6553 23e Avenue, Rosemont / La Petite Patrie, QC, H1T 3N3",937,,1.5,2.0,Condominium,1.0,287.0,289000,2008.0,45.5638099,-73.58011599999999
-212,"307-2170 boulevard Henri-Bourassa Est, Ahuntsic / Cartierville, QC, H2B 1T2",1,South-East,1.0,2.0,Condominium,3.0,234900.0,299000,2006.0,45.574464,-73.6557184
-213,"124-1200 rue Saint-Alexandre, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3B 3H5",422,,1.5,1.0,Condominium,1.0,,245000,2009.0,45.504478,-73.5665399
-214,"3093 rue Lacordaire, Mercier / Hochelaga / Maisonneuve, QC, H1N 2N1",46.1,East,1.0,1.0,Condominium,,170000.0,189500,2018.0,45.5737367,-73.54461169999999
-215,"406-4550 2e Avenue, Rosemont / La Petite Patrie, QC, H1Y 0B2",1,,2.0,3.0,Condominium,4.0,,458900,2015.0,45.5433145,-73.5684314
-216,"4930 rue Bélanger, Rosemont / La Petite Patrie, QC, H1T 1C6",800,,1.0,2.0,Condominium,,177600.0,210000,1998.0,45.5731392,-73.5799857
-217,"308-6900 boulevard Gouin Est, Montréal-Nord, QC, H1G 6L9",1,South-West,1.5,3.0,Condominium,3.0,285600.0,269900,1982.0,45.6274668,-73.6203917
-218,"406-926 avenue Sainte-Croix, Saint-Laurent, QC, H4L 3Y6",584.48,,1.5,1.0,Condominium,4.0,,224800,2009.0,45.51009879999999,-73.66945849999999
-219,"4291 rue Ernest Gendreau, Rosemont / La Petite Patrie, QC, H1X 3M5",1,East,1.0,2.0,Condominium,,,309000,1989.0,45.5492937,-73.5627458
-220,"102-69 rue Berlioz, L'Ile Des Soeurs, QC, H3E 1N8",1,,1.0,2.0,Condominium,1.0,,390000,1988.0,45.4627787,-73.5422088
-221,"1-10 avenue Marsolais, Outremont, QC, H2V 1N2",1,South-East,2.0,3.0,Condominium,1.0,1444500.0,624000,1921.0,45.5200636,-73.6123654
-222,"306-205 boulevard Henri-Bourassa Ouest, Ahuntsic / Cartierville, QC, H3L 1N4",1,,1.5,2.0,Condominium,3.0,,339000,2010.0,45.545679,-73.67343180000002
-223,"201-12590 rue Sherbrooke Est, Pointe-Aux-Trembles / Montréal-Est, QC, H1B 1C9",800,North-East,1.0,1.0,Condominium,1.0,173100.0,175000,2007.0,45.6507158,-73.5111998
-224,"3452 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC, H1W 1H5",690,South-East,1.0,2.0,Condominium,3.0,,239000,1928.0,45.54560379999999,-73.55196219999999
-225,"201-400 avenue Hearne, Pointe-Claire, QC, H9R 1K3",775,,1.0,2.0,Condominium,2.0,,265000,2012.0,45.4668656,-73.802464
-226,"C-2024 rue Marie-Anne Est, Le Plateau-Mont-Royal, QC, H2H 1M4",1,,1.0,3.0,Condominium,3.0,,435000,1930.0,45.5337358,-73.5703101
-227,"6724 rue Alma, Rosemont / La Petite Patrie, QC, H2S 2W7",1,South,2.5,3.0,Condominium,1.0,,890000,2016.0,45.5341648,-73.6105488
-228,"401-425 rue Sainte-Hélène, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2Y 2K9",545.73,,1.0,1.0,Condominium,4.0,252800.0,299000,2005.0,45.5009877,-73.5575166
-229,"1288 avenue des Canadiens-de-Montréal, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3B 3B3",901,,2.0,2.0,Condominium,12.0,,599999,2016.0,45.4961429,-73.5704392
-230,"4900 boulevard de l'Assomption, Rosemont / La Petite Patrie, QC, H1T 0A2",777,North-West,1.0,1.0,Condominium,1.0,284400.0,373000,2011.0,45.5696922,-73.5555086
-231,"709-1500 rue Basin, Griffintown, QC, H3C 0N3",996,,1.0,2.0,Condominium,7.0,478000.0,600000,2014.0,45.4895353,-73.5613743
-232,"210-1070 rue de Bleury, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2Z 1N3",1,South-West,1.5,1.0,Condominium,2.0,,698000,2012.0,45.5044131,-73.5632557
-233,"204-55 rue Molière, Villeray / St-Michel / Parc-Extension, QC, H2R 1N7",66,,1.0,1.0,Condominium,2.0,223900.0,285000,1960.0,45.5364352,-73.6202282
-234,"108-1550 boulevard Henri-Bourassa Ouest, Ahuntsic / Cartierville, QC, H3M 3G4",73,East,1.0,2.0,Condominium,1.0,,215000,2005.0,45.5486168,-73.671617
-235,"403-16065 rue Eugénie-Tessier, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 0A2",1,North-West,1.0,3.0,Condominium,3.0,204600.0,172000,2005.0,45.6956509,-73.4889219
-236,"101-122 boulevard Hymus, Pointe-Claire, QC, H9R 1E8",948,,2.0,2.0,Condominium,1.0,307300.0,339000,2015.0,45.4698295,-73.80284689999999
-237,"5413 rue Gabriele-Frascadore, Mercier / Hochelaga / Maisonneuve, QC, H1K 0J1",4.09x22,North-West,1.5,3.0,Condominium,,,348500,2012.0,45.6128724,-73.5348303
-238,"310B-2118 rue Saint-Dominique, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2X 2X3",574,,1.0,1.0,Condominium,3.0,270000.0,283000,2014.0,45.5127225,-73.568694
-239,"3110-1288 avenue des Canadiens-de-Montréal, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3B 3B3",45.2,South-West,1.0,1.0,Condominium,31.0,423000.0,495000,2016.0,45.4960488,-73.5705126
-240,"119-8 rue Gary-Carter, Villeray / St-Michel / Parc-Extension, QC, H2R 0A8",906.5,East,2.0,2.0,Condominium,1.0,,599000,2015.0,45.5354635,-73.62214349999999
-241,"2B-10685 avenue de Lorimier, Ahuntsic / Cartierville, QC, H2B 2J4",1,South-West,1.0,2.0,Condominium,2.0,,275000,2003.0,45.5736859,-73.65633989999999
-242,"606-6500 boulevard Henri-Bourassa Ouest, Saint-Laurent, QC, H4R 0G6",650,,1.0,1.0,Condominium,6.0,215800.0,274000,2013.0,45.5431883,-73.67528539999999
-243,"4-5720 rue Laurendeau, Le Sud-Ouest, QC, H4E 3W7",884,South,1.0,2.0,Condominium,1.0,230300.0,279000,2007.0,45.4607977,-73.5879192
-244,"211-3990 rue Jarry Est, Villeray / St-Michel / Parc-Extension, QC, H1Z 0A5",686,,1.0,2.0,Condominium,2.0,217500.0,214000,2012.0,45.5410446,-73.6303046
-245,"701-4530 rue Clark, Le Plateau-Mont-Royal, QC, H2T 2T4",900,,1.0,2.0,Condominium,7.0,370200.0,425000,2001.0,45.5197075,-73.5876232
-246,"223-4 Place les Jardin-des-Vosges, L'Ile Des Soeurs, QC, H3E 2B3",650,South-East,1.0,1.0,Condominium,2.0,,267800,2004.0,45.4508043,-73.5491617
-247,"1-2083 rue Beaudry, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 3G4",685,North-East,1.0,2.0,Condominium,,225900.0,264000,1933.0,45.5203891,-73.5596509
-248,"7-13520 rue Sherbrooke Est, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 4L6",953,,1.0,3.0,Condominium,3.0,,169500,1983.0,45.6625541,-73.5068816
-249,"317-363 rue Saint-Hubert, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 0A8",102,,2.0,2.0,Condominium,3.0,,610000,2007.0,45.5123634,-73.55061839999999
-250,"7-600 rue Osborne, Verdun, QC, H4H 1X2",613,,1.0,1.0,Condominium,2.0,,257000,1925.0,45.45127069999999,-73.57274300000002
-251,"103-4601 rue Messier, Le Plateau-Mont-Royal, QC, H2H 2J2",881,West,1.0,1.0,Condominium,1.0,352900.0,429900,2012.0,45.5376827,-73.5719534
-252,"805-370 rue Saint-André, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 0C4","1,017",,1.5,2.0,Condominium,8.0,,629000,2011.0,45.51390610000001,-73.55176999999999
-253,"6929 rue Marie-Guyart, LaSalle, QC, H8N 3G9","1,129.17",,1.5,3.0,Condominium,1.0,,399000,2003.0,45.4460135,-73.6100301
-254,"4452 rue d'Iberville, Le Plateau-Mont-Royal, QC, H2H 2L8",868,South-West,1.0,3.0,Condominium,1.0,,459000,2008.0,45.5385291,-73.56781699999999
-255,"12054 avenue Savard, Montréal-Nord, QC, H1H 3N2",1,South-East,1.0,2.0,Condominium,1.0,216500.0,269000,1987.0,45.6023794,-73.6421276
-256,"4345 rue Joliette, Rosemont / La Petite Patrie, QC, H1X 3L8",945,West,1.0,2.0,Condominium,,213800.0,274000,1988.0,45.550856,-73.562022
-257,"1218-4959 rue Jean Talon Ouest, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4P 0B8","1,515",,2.0,3.0,Condominium,12.0,,809000,2018.0,45.4974964,-73.6496057
-258,"114-219 rue Maria, Le Sud-Ouest, QC, H4C 0B5",53.2,,1.0,1.0,Condominium,1.0,234900.0,289900,2012.0,45.4774049,-73.5817227
-259,"1105 rue Alexander-C.-Hutchison, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5N2",1,,1.5,2.0,Condominium,1.0,,175000,1995.0,45.6928985,-73.4934811
-260,"439 rue Saint-Claude, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2Y 3B6",1,North-East,1.0,2.0,Condominium,,,499000,1997.0,45.5090721,-73.5528192
-261,"703-1375 rue Basin, Griffintown, QC, H3C 1W3",739,South,1.0,2.0,Condominium,7.0,,479500,2017.0,45.4906195,-73.560243
-262,"8781 rue Saint-Denis, Ahuntsic / Cartierville, QC, H2M 1N3",1,South,1.0,2.0,Condominium,,,287000,1951.0,45.5458559,-73.6403198
-263,"213-19500 rue du Sulky, Pierrefonds / Roxboro, QC, H9K 0A5",561,West,1.0,1.0,Condominium,2.0,,219995,2015.0,45.45699279999999,-73.90432129999999
-264,"204-300 rue Desmarteau, Mercier / Hochelaga / Maisonneuve, QC, H1L 3S4",1,,1.0,2.0,Condominium,1.0,,416500,2010.0,45.6028534,-73.5109447
-265,"2-5192 avenue Henri-Julien, Le Plateau-Mont-Royal, QC, H2T 2E5",885,,1.0,2.0,Condominium,1.0,,339000,1998.0,45.5280669,-73.5956916
-266,"1-659 terrasse du Ruisseau, Lachine, QC, H8T 3L6",704,East,1.0,1.0,Condominium,,154533.0,198500,1988.0,45.4429531,-73.6946616
-267,"5410 rue Gabrielle-Frascadore, Mercier / Hochelaga / Maisonneuve, QC, H1K 0H9",675,,1.0,1.0,Condominium,,175000.0,175000,2011.0,45.61262120000001,-73.5348525
-268,"5651 place de Jumonville, Rosemont / La Petite Patrie, QC, H1M 3W1",1,,2.0,3.0,Condominium,,,412000,1984.0,45.5737311,-73.552854
-269,"202-2960 rue Saint-Patrick, Le Sud-Ouest, QC, H3K 3H6",1,South,1.0,2.0,Condominium,2.0,390000.0,497500,2002.0,45.4772616,-73.5748024
-270,"405-8520 rue Raymond-Pelletier, Ahuntsic / Cartierville, QC, H2M 0A4",1,North-West,2.0,3.0,Condominium,4.0,380600.0,429000,2008.0,45.5517867,-73.6312885
-271,"101-250 chemin de la Pointe-Sud, L'Ile Des Soeurs, QC, H3E 0A8",1,South,1.5,1.0,Condominium,1.0,,564900,2009.0,45.4484566,-73.5529676
-272,"1212-1150 rue Saint-Denis, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2X 0B3",625,,1.0,1.0,Condominium,12.0,,354000,2013.0,45.5130433,-73.55919329999999
-273,"710-100 rue André-Prévost, L'Ile Des Soeurs, QC, H3E 0C3",1,South-West,2.0,2.0,Condominium,7.0,425600.0,539000,2014.0,45.4491459,-73.5603278
-274,"112-2190 rue Préfontaine, Mercier / Hochelaga / Maisonneuve, QC, H1W 2P3",863,East,1.5,1.0,Condominium,1.0,,314999,2013.0,45.5408835,-73.5504393
-275,"301-6505 rue Fabre, Rosemont / La Petite Patrie, QC, H2G 2Z4",753,,1.5,1.0,Condominium,3.0,306900.0,337000,2005.0,45.5421972,-73.59792200000001
-276,"102-320 chemin de la Rive-Boisée, Pierrefonds / Roxboro, QC, H8Z 3M2",,,1.0,1.0,Condominium,1.0,,224900,2004.0,45.4972778,-73.8532084
-277,"1013-3535 avenue Papineau, Le Plateau-Mont-Royal, QC, H2K 4J9",1,,2.0,3.0,Condominium,10.0,459000.0,538000,1973.0,45.5292442,-73.5660134
-278,"1158-10650 place de l'Acadie, Ahuntsic / Cartierville, QC, H4N 0B6",852,,1.0,2.0,Condominium,11.0,259100.0,285000,2012.0,45.5335219,-73.67888820000002
-279,"425-111 chemin de la Pointe-Nord, L'Ile Des Soeurs, QC, H3E 0B3",1,,2.0,2.0,Condominium,4.0,,459000,2011.0,45.4728734,-73.5391023
-280,"509-7501 avenue Mountain Sights, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4P 0A8",65.3,,1.0,1.0,Condominium,5.0,310000.0,344000,2011.0,45.4966155,-73.6522469
-281,"15883 rue Victoria, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5P1",84,North-East,1.0,2.0,Condominium,2.0,147000.0,165000,1996.0,45.6751784,-73.4958692
-282,"305-9189 boulevard Maurice-Duplessis, Rivière des Prairies, QC, H1E 6M3",961,West,2.0,2.0,Condominium,3.0,284200.0,320000,2013.0,45.646573,-73.5700461
-283,"2203-10800 avenue Millen, Ahuntsic / Cartierville, QC, H2C 0A3",825,South-East,1.0,1.0,Condominium,2.0,253300.0,339000,2012.0,45.556658,-73.66914600000001
-284,"1016 8e Avenue, Pointe-Aux-Trembles / Montréal-Est, QC, H1B 5S6",,West,1.0,1.0,Condominium,,97000.0,137000,1983.0,45.6393769,-73.4991579
-285,"2-7600 18e Avenue, Villeray / St-Michel / Parc-Extension, QC, H2A 2N2",533,North-East,1.0,1.0,Condominium,,,150000,2010.0,45.559869,-73.58337689999999
-286,"710-88 rue Charlotte, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2X 4E2",749,,1.0,1.0,Condominium,7.0,,400000,2005.0,45.5098662,-73.56189379999999
-287,"3520 rue de Bordeaux, Le Plateau-Mont-Royal, QC, H2K 3Z3",982,West,1.0,3.0,Condominium,1.0,,465000,1922.0,45.530643,-73.5649404
-288,"305-3020 rue du Trianon, Mercier / Hochelaga / Maisonneuve, QC, H1N 0A1",86.5,West,1.0,2.0,Condominium,3.0,243500.0,258500,2006.0,45.5882331,-73.53536869999999
-289,"108-5200 boulevard des Sources, Pierrefonds / Roxboro, QC, H8Z 3M4",658.75,,1.0,1.0,Condominium,1.0,184300.0,197000,2004.0,45.5135048,-73.8259906
-290,"301-760 chemin Marie le Ber, L'Ile Des Soeurs, QC, H3E 1W6",600,,1.0,1.0,Condominium,3.0,,221900,1994.0,45.4644302,-73.5502034
-291,"107-10332 rue Paul-Comtois, Ahuntsic / Cartierville, QC, H4N 3B5",874,South-West,1.0,2.0,Condominium,1.0,,218000,1988.0,45.538213,-73.672979
-292,"106-2200 rue Harriet-Quimby, Saint-Laurent, QC, H4R 0L2",906,South-East,1.0,2.0,Condominium,1.0,394200.0,424900,2014.0,45.5125967,-73.71019559999999
-293,"8892 boulevard Perras, Rivière des Prairies, QC, H1E 5X7",896,South,1.0,2.0,Condominium,3.0,197200.0,229900,2008.0,45.6470324,-73.5813187
-294,"302-1625 rue Clark, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2X 2R4",1,,2.0,2.0,Condominium,3.0,,577000,2010.0,45.5107098,-73.5667686
-295,"6-484 avenue Mousseau-Vermette, Dorval / L'Île Dorval, QC, H9S 0A7","1,210",,1.5,2.0,Condominium,3.0,319500.0,374900,2011.0,45.4472478,-73.7263883
-296,"303-5251 rue Riviera, Pierrefonds / Roxboro, QC, H8Z 3H7",977,,1.0,2.0,Condominium,3.0,206700.0,225000,1988.0,45.51549809999999,-73.82879439999999
-297,"607-3581 boulevard Gouin Est, Montréal-Nord, QC, H1H 0A1",830,North,1.5,1.0,Condominium,6.0,246800.0,237000,2007.0,45.5916529,-73.6501925
-298,"4-12330 rue René-Chopin, Rivière des Prairies, QC, H1E 7E5",94.1,West,1.0,2.0,Condominium,2.0,187000.0,230300,1991.0,45.6331299,-73.6029504
-299,"6-431 21e Avenue, Lachine, QC, H8S 0A4",73.3,,1.0,2.0,Condominium,2.0,,249900,2009.0,45.4364612,-73.68339900000001
-300,"613-760 chemin Marie-Le Ber, L'Ile Des Soeurs, QC, H3E 1W6",927,,1.0,1.0,Condominium,6.0,,325000,1995.0,45.4644302,-73.5502034
-301,"608-795 chemin du Bord-du-Lac Lakeshore, Dorval / L'Île Dorval, QC, H9S 0A8",936.5,,2.0,1.0,Condominium,6.0,,398500,2010.0,45.4400997,-73.7345512
-302,"215-2600 place Chassé, Rosemont / La Petite Patrie, QC, H1Y 0A9",1,,2.0,3.0,Condominium,2.0,,443900,2014.0,45.5425513,-73.5621292
-303,"751 7 Avenue, Lachine, QC, H8S 3A4",,West,2.0,3.0,Condominium,1.0,,459000,2010.0,45.443769,-73.670583
-304,"906-4755 boulevard Métropolitaine Est, Saint-Léonard, QC, H1R 0C2",1,,2.0,2.0,Condominium,9.0,,424600,2014.0,45.57694559999999,-73.5941601
-305,"16106 rue Forsyth, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5S9",920,,1.0,2.0,Condominium,3.0,192900.0,185000,2002.0,45.675363,-73.50076
-306,"304-6715 boulevard Maurice-Duplessis, Montréal-Nord, QC, H1G 1Z5",703,South,1.5,1.0,Condominium,3.0,164767.0,178000,2012.0,45.6176271,-73.61440370000001
-307,"2-4820 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC, H1V 3V7",93.8,South-East,1.5,3.0,Condominium,1.0,262000.0,332500,2001.0,45.5601256,-73.54308089999999
-308,"4147 avenue des Érables, Le Plateau-Mont-Royal, QC, H2K 3V7",1,,1.0,2.0,Condominium,1.0,,425000,2012.0,45.5332716,-73.56602079999999
-309,"107-975 boulevard de la Côte-Vertu, Saint-Laurent, QC, H4L 1Y7",54,West,1.0,1.0,Condominium,1.0,173600.0,205000,2011.0,45.5292677,-73.6690373
-310,"2228 rue Cartier, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 4E8",863,South-West,1.0,2.0,Condominium,2.0,,325000,2003.0,45.5277695,-73.561596
-311,"5497 avenue Coolbrook, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3X 2L3",1,,2.0,3.0,Condominium,2.0,,412000,1925.0,45.4858049,-73.63658819999999
-312,"7-2025 avenue de la Salle, Mercier / Hochelaga / Maisonneuve, QC, H1V 2K6",2,,1.5,1.0,Condominium,2.0,529200.0,599000,2001.0,45.5521834,-73.54080549999999
-313,"104-2375 avenue Ekers, Mont-Royal, QC, H3S 1C6",1,,2.0,3.0,Condominium,,,549000,2011.0,45.514484,-73.62936309999999
-314,"304-12675 avenue Fernand-Gauthier, Rivière des Prairies, QC, H1E 2X2",948,,1.0,2.0,Condominium,3.0,,189900,2005.0,45.637196,-73.6054166
-315,"117-220 chemin du Golf, L'Ile Des Soeurs, QC, H3E 2A7",,,3.5,4.0,Condominium,1.0,,890000,2005.0,45.4685975,-73.54783800000001
-316,"8593 rue Foucher, Villeray / St-Michel / Parc-Extension, QC, H2P 2C3",1,South-West,1.5,3.0,Condominium,1.0,,600000,1930.0,45.5473659,-73.635425
-317,"1603 avenue Bourbonniere, Mercier / Hochelaga / Maisonneuve, QC, H1W 3N5",772,,1.0,2.0,Condominium,2.0,198400.0,229777,1908.0,45.5469242,-73.5391733
-318,"533-2000 rue Basin, Griffintown, QC, H3J 0B6",603.87,,1.0,1.0,Condominium,5.0,,330000,2018.0,45.4860315,-73.5675913
-319,"503-4260 rue de Rouen, Mercier / Hochelaga / Maisonneuve, QC, H1V 1G9",1,South,2.0,2.0,Condominium,5.0,435600.0,499000,2013.0,45.55318,-73.5435193
-320,"4-227 boulevard Bouchard, Dorval / L'Île Dorval, QC, H9S 1A9",956,,1.0,2.0,Condominium,2.0,,317000,2015.0,45.44453439999999,-73.7214078
-321,"301-100 rue Berlioz, L'Ile Des Soeurs, QC, H3E 1N4",76,,1.0,1.0,Condominium,3.0,,349900,1987.0,45.46404090000001,-73.54029179999999
-322,"4-14540 rue Sherbrooke Est, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5T8",1,South-East,1.5,2.0,Condominium,2.0,,234000,2003.0,45.629209,-73.5177705
-323,"304-5151 boulevard Léger, Montréal-Nord, QC, H1G 1J9",453,North-East,1.0,1.0,Condominium,3.0,153000.0,133000,2011.0,45.6081673,-73.6345504
-324,"302-14421 rue Harry-Worth, Pierrefonds / Roxboro, QC, H9H 5N1",1,North-West,2.0,2.0,Condominium,3.0,,336000,2006.0,45.4868096,-73.8529281
-325,"5-6870 25e Avenue, Rosemont / La Petite Patrie, QC, H1T 3L9","1,170",,1.0,3.0,Condominium,2.0,,389000,2010.0,45.5663683,-73.5850561
-326,"3-8881 boulevard des Galeries d'Anjou, Anjou, QC, H1J 1X1",942,,1.0,2.0,Condominium,2.0,,234900,1986.0,45.6033493,-73.5780197
-327,"802-7200 avenue M.-B.-Jodoin, Anjou, QC, H1J 2R4",950,South,1.0,2.0,Condominium,8.0,220900.0,219000,1987.0,45.6062106,-73.58324209999999
-328,"3-5976 2e Avenue, Rosemont / La Petite Patrie, QC, H1Y 2Y9",2,,2.0,3.0,Condominium,2.0,,849000,2010.0,45.54902999999999,-73.5858344
-329,"302-11015 boulevard Cavendish, Saint-Laurent, QC, H4R 2H5",1,,1.5,2.0,Condominium,3.0,243300.0,279000,1982.0,45.4998613,-73.7015411
-330,"301-4620 rue Fullum, Le Plateau-Mont-Royal, QC, H2H 2S1",953,South-West,1.0,2.0,Condominium,3.0,,455000,2012.0,45.5381189,-73.5718169
-331,"1302-6900 boulevard Gouin Est, Montréal-Nord, QC, H1G 6L9",1,North-West,2.0,3.0,Condominium,13.0,315900.0,299900,1982.0,45.6274668,-73.6203917
-332,"415-3625 rue Jean-Gascon, Saint-Laurent, QC, H4R 0K6",1,,2.0,3.0,Condominium,4.0,,498000,2014.0,45.50994300000001,-73.7192306
-333,"9407 rue de Grosbois, Mercier / Hochelaga / Maisonneuve, QC, H1K 0E1",966,,1.0,2.0,Condominium,2.0,,264000,2010.0,45.6111524,-73.53118119999999
-334,"107-6900 boulevard Gouin Est, Montréal-Nord, QC, H1G 6L9",1,South-East,2.0,3.0,Condominium,1.0,,325000,1982.0,45.6274668,-73.6203917
-335,"1288 avenue des Canadiens-de-Montréal, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3B 3B3",,North-East,1.0,1.0,Condominium,10.0,,599999,2016.0,45.4961429,-73.5704392
-336,", Mercier / Hochelaga / Maisonneuve, QC, ",951,West,1.0,2.0,Condominium,2.0,247000.0,nformation provided by the seller,2012.0,45.5729775,-73.5307953
-337,"3963 rue Drolet, Le Plateau-Mont-Royal, QC, H2W 2L3","1,275",East,2.0,2.0,Condominium,2.0,,575000,2006.0,45.5198408,-73.57545549999999
-338,"5336 13e Avenue, Rosemont / La Petite Patrie, QC, H1X 2X8","1,200",,1.5,2.0,Condominium,2.0,272000.0,342000,1994.0,45.5516892,-73.5713808
-339,"903-4500 chemin de la Côte-des-Neiges, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3V 0A1",1,,2.0,2.0,Condominium,9.0,612500.0,750000,2012.0,45.4953624,-73.6072092
-340,"506-230 rue Sherbrooke Est, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2X 1E1",750,South,1.5,1.0,Condominium,5.0,,425000,1900.0,45.5182604,-73.56658
-341,"102-2365 rue des Carrières, Rosemont / La Petite Patrie, QC, H2G 1X6",652,,1.0,1.0,Condominium,1.0,,279000,2014.0,45.5447579,-73.58586489999999
-342,"2816-1288 avenue des Canadiens-de-Montréal, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3B 2S2",504,,1.0,1.0,Condominium,28.0,,428000,2016.0,45.4960488,-73.5705126
-343,"2311 avenue Madison, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4B 2T5",98.6,South-West,1.5,2.0,Condominium,3.0,795933.0,469000,1928.0,45.4649806,-73.6224388
-344,"207-5363 rue Saint-Denis, Le Plateau-Mont-Royal, QC, H2J 0A8",691,,1.0,1.0,Condominium,2.0,223233.0,264900,2013.0,45.5286398,-73.5928224
-345,"302-1295 boulevard du Tricentenaire, Pointe-Aux-Trembles / Montréal-Est, QC, H1B 3A9",979,,1.0,2.0,Condominium,3.0,,174900,1984.0,45.651123,-73.497934
-346,"1-813 rue Gameroff, Lachine, QC, H8T 3R7",1,,1.0,2.0,Condominium,1.0,,359000,2006.0,45.4435365,-73.6933999
-347,"103-1600 rue Robert-Charbonneau, Ahuntsic / Cartierville, QC, H4N 2Y1",82.8,South,1.0,2.0,Condominium,1.0,190100.0,216000,1983.0,45.5356648,-73.6766358
-348,"4220A rue de Mentana, Le Plateau-Mont-Royal, QC, H2J 3B2",900,South-West,1.0,2.0,Condominium,2.0,384767.0,419000,1980.0,45.52499299999999,-73.57636099999999
-349,"9970 rue Saint-Patrick, LaSalle, QC, H8R 1S3",1,,1.0,2.0,Condominium,,234000.0,275000,1999.0,45.431456,-73.6645207
-350,"1010 rue Thierry, LaSalle, QC, H8N 2Y6",1,West,2.0,3.0,Condominium,1.0,,420000,1993.0,45.4329451,-73.6069514
-351,"201-9387 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC, H1L 2P7",1,,1.0,3.0,Condominium,2.0,294900.0,274000,2011.0,45.6084253,-73.5162273
-352,"1102-7705 rue du Mans, Saint-Léonard, QC, H1S 2A2",90,North-East,1.0,2.0,Condominium,11.0,,300000,2008.0,45.5845802,-73.584565
-353,"504-740 boulevard Montpellier, Saint-Laurent, QC, H4L 5B1",950,North-West,1.0,2.0,Condominium,5.0,221000.0,244000,1977.0,45.5189481,-73.6657993
-354,"611-1500 rue Basin, Griffintown, QC, H3C 0N3",661,South-West,1.0,1.0,Condominium,6.0,,359000,2014.0,45.4895353,-73.5613743
-355,"705-6851 boulevard des Roseraies, Anjou, QC, H1M 3N3",1,East,1.5,3.0,Condominium,7.0,,319000,1989.0,45.598039,-73.5553484
-356,"102-9640 rue William-Fleming, LaSalle, QC, H8R 0C4",923,South,2.0,2.0,Condominium,1.0,,332000,2016.0,45.43113659999999,-73.6566658
-357,"3526 avenue de Lorimier, Le Plateau-Mont-Royal, QC, H2K 3X6",1,South-West,1.0,3.0,Condominium,3.0,,599000,1922.0,45.5315038,-73.56512740000001
-358,"105-6900 boulevard Gouin Est, Montréal-Nord, QC, H1G 6L9",1,North-East,1.0,2.0,Condominium,1.0,260600.0,254900,1982.0,45.6274668,-73.6203917
-359,"1006-2000 rue Drummond, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3G 2X1",1,,2.0,2.0,Condominium,10.0,733800.0,790000,2006.0,45.4995307,-73.5763439
-360,"215-2335 avenue Bennett, Mercier / Hochelaga / Maisonneuve, QC, H1V 2T6",538.19,,1.5,1.0,Condominium,2.0,,238000,2014.0,45.5568746,-73.5435143
-361,"B6-925 croissant du Ruisseau, Saint-Laurent, QC, H4L 5C5",1,,1.0,2.0,Condominium,6.0,,379900,1985.0,45.5282825,-73.6907854
-362,"R5-2502 rue Bossuet, Mercier / Hochelaga / Maisonneuve, QC, H1N 2S4",66.8,West,1.0,1.0,Condominium,,160300.0,177000,2004.0,45.5727124,-73.5366146
-363,"102-6746 29e avenue, Rosemont / La Petite Patrie, QC, H1T 3H6",816,,1.0,2.0,Condominium,1.0,,284900,2014.0,45.5680264,-73.58119169999999
-364,"1507-6900 boulevard Gouin Est, Montréal-Nord, QC, H1G 6L9",1,South-East,1.0,2.0,Condominium,15.0,300200.0,299000,1982.0,45.6274668,-73.6203917
-365,"16051 rue Forsyth, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5P3",,South-East,1.0,2.0,Condominium,3.0,208700.0,205000,1999.0,45.6751295,-73.501151
-366,"A-1028 rue Thierry, LaSalle, QC, H8N 2Y6",751,,1.0,1.0,Condominium,1.0,159733.0,182000,1993.0,45.4330437,-73.60752409999999
-367,"324 avenue Prince-Albert, Westmount, QC, H3Z 2N8",2,South-West,3.0,5.0,Condominium,1.0,,1299000,1905.0,45.4772094,-73.6020863
-368,"705-6995 boulevard Gouin Est, Montréal-Nord, QC, H1G 6L1",983,North-East,1.0,2.0,Condominium,7.0,,239900,1981.0,45.629122,-73.6203259
-369,"9-1259 rue Joseph-Janot, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 4Y7",822.04,,1.5,2.0,Condominium,2.0,,169000,1987.0,45.6517724,-73.496985
-370,"104-3300 boulevard Cavendish, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4B 2M8",637,South,1.0,1.0,Condominium,1.0,,229000,2013.0,45.4629931,-73.62796750000001
-371,"415-9433 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC, H1L 2P7",1,,1.0,3.0,Condominium,3.0,,280000,2015.0,45.60891650000001,-73.51613429999999
-372,"307-5 rue Dante, Rosemont / La Petite Patrie, QC, H2S 1J6","1,140",,2.0,1.0,Condominium,3.0,,675000,2014.0,45.5329861,-73.6138328
-373,"8-1941 avenue de Lorimier, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2K 3W8",86,South-East,1.0,2.0,Condominium,3.0,,399000,2005.0,45.5280241,-73.5565716
-374,"379 rue du Square-Sir-George-Étienne-Cartier, Le Sud-Ouest, QC, H4C 3A3","1,250",,1.0,2.0,Condominium,2.0,,685000,1910.0,45.4732515,-73.5868644
-375,"205-6565 rue Collins, Côte-St-Luc / Hampstead / Montréal-Ouest, QC, H4W 3H3",113.8,South-West,2.0,2.0,Condominium,2.0,,317000,1989.0,45.4804678,-73.66988789999999
-376,"10292 rue André-Jobin, Ahuntsic / Cartierville, QC, H2B 2V8",916,,1.0,2.0,Condominium,1.0,,303900,2002.0,45.5761616,-73.647159
-377,"148-2530 place Michel-Brault, Rosemont / La Petite Patrie, QC, H1Y 0B6",1,South-East,2.0,3.0,Condominium,,478800.0,538000,2015.0,45.5421071,-73.5737322
-378,"509-10011 boulevard Pie IX, Montréal-Nord, QC, H1H 0A8",64.4,South-East,1.0,1.0,Condominium,5.0,,170000,2013.0,45.5844503,-73.63000749999999
-379,"2310-3535 avenue Papineau, Le Plateau-Mont-Royal, QC, H2K 4J9",1,,1.0,2.0,Condominium,23.0,,450000,1973.0,45.5292461,-73.56634439999999
-380,"15991 rue Forsyth, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5M3",754.12,East,1.5,1.0,Condominium,,112000.0,124900,1995.0,45.6751295,-73.501151
-381,"316-5661 avenue de Chateaubriand, Rosemont / La Petite Patrie, QC, H2S 0B6",1,,2.0,3.0,Condominium,3.0,,535000,2011.0,45.5320984,-73.59543579999999
-382,"405-420 19e Avenue, Lachine, QC, H8S 3S2",775,,1.0,1.0,Condominium,4.0,212800.0,240000,2015.0,45.43582,-73.6812352
-383,"561 rue de la Métairie, L'Ile Des Soeurs, QC, H3E 1S4",95.3,South,1.0,2.0,Condominium,1.0,,378900,1988.0,45.4623602,-73.55045989999999
-384,"3101-1288 avenue des Canadiens-de-Montréal, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3B 3B3",889,,2.0,2.0,Condominium,31.0,615500.0,675000,2016.0,45.4960488,-73.5705126
-385,"709-4500 chemin de la Côte-des-Neiges, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3V 0A1",537.12,,1.0,1.0,Condominium,7.0,,355000,2012.0,45.496362,-73.5865608
-386,"336-A rue Baldwin, Mercier / Hochelaga / Maisonneuve, QC, H1L 5A3",775,South,1.0,1.0,Condominium,,,196000,2014.0,45.5972059,-73.5110735
-387,"2230 avenue du Mont-Royal Est, Le Plateau-Mont-Royal, QC, H2H 1K4",1,,2.5,2.0,Condominium,3.0,,669000,1924.0,45.5368195,-73.5707364
-388,"101-1554 rue Viel, Ahuntsic / Cartierville, QC, H3M 1G5",850,,1.0,1.0,Condominium,2.0,,229900,1988.0,45.5435199,-73.69726039999999
-389,"002-5435 rue Saint-Denis, Le Plateau-Mont-Royal, QC, H2J 4B7",62.8,East,1.0,2.0,Condominium,1.0,,299900,2011.0,45.5292622,-73.5938623
-390,"2-2057 53e Avenue, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 2V3",1,North-East,1.0,2.0,Condominium,2.0,191100.0,192500,2007.0,45.67219000000001,-73.5033356
-391,"107-6851 boulevard des Roseraies, Anjou, QC, H1M 3N3",61.9,,1.0,1.0,Condominium,1.0,153033.0,169500,1989.0,45.598039,-73.5553484
-392,"111-350 rue Éléanor, Griffintown, QC, H3C 0T5",1,,2.5,3.0,Condominium,,,645000,2018.0,45.493014,-73.5624545
-393,"16253 boulevard Gouin Ouest, L'île-Bizard / Sainte-Geneviève, QC, H9H 1E2","1,148",East,1.0,2.0,Condominium,1.0,252000.0,299999,2011.0,45.4781139,-73.8738187
-394,"419-7020 rue Allard, LaSalle, QC, H8N 0C5",841,North-West,1.0,2.0,Condominium,4.0,,350000,2014.0,45.4475606,-73.6066625
-395,"108-13101 rue Notre-Dame Est, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 1S4",851,North-West,1.0,1.0,Condominium,1.0,166900.0,200000,1995.0,45.6542946,-73.4909996
-396,"221-3311 boulevard Saint-Joseph Est, Villeray / St-Michel / Parc-Extension, QC, H1X 1W3",770,North,1.5,1.0,Condominium,2.0,,260000,2012.0,45.5247914,-73.5894531
-397,"310-2117 rue Tupper, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3H 0B2",49.4,,1.0,1.0,Condominium,3.0,,394000,2017.0,45.49051799999999,-73.58158929999999
-398,"133 31e Avenue, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 3M6",78.5,East,1.0,2.0,Condominium,1.0,152500.0,200000,1994.0,45.6552881,-73.49078039999999
-399,"3-5989 23e Avenue, Rosemont / La Petite Patrie, QC, H1T 3N1",978.43,,1.0,2.0,Condominium,2.0,308500.0,339900,2012.0,45.562023,-73.574739
-400,"607-8580 rue Raymond-Pelletier, Ahuntsic / Cartierville, QC, H2M 2W7",834.2,East,1.0,1.0,Condominium,6.0,281800.0,317300,2004.0,45.5526955,-73.632325
-401,"208-6510 44e avenue Est, Rosemont / La Petite Patrie, QC, H1T 2P1",992,North-West,1.0,2.0,Condominium,2.0,,269000,2006.0,45.57555139999999,-73.56893620000001
-402,"207-440 19e Avenue, Lachine, QC, H8S 3S2",507,East,1.0,1.0,Condominium,2.0,,178000,2014.0,45.4365628,-73.68090590000001
-403,"5-3925 avenue du Mont-Royal Est, Rosemont / La Petite Patrie, QC, H1X 1Y2",1,,1.0,2.0,Condominium,2.0,312100.0,329000,2005.0,45.5543278,-73.5601106
-404,"A-3818 rue Berri, Le Plateau-Mont-Royal, QC, H2L 4H1",1,South-West,2.0,2.0,Condominium,3.0,,998000,2012.0,45.520338,-73.57216199999999
-405,"310-440 rue de la Gauchetière Est, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 2M5",868,South,2.0,2.0,Condominium,3.0,,410000,2013.0,45.5125043,-73.5561704
-406,"204-8102 boulevard Gouin Est, Rivière des Prairies, QC, H1E 1B6",1,,1.0,2.0,Condominium,2.0,,179900,1991.0,45.643345,-73.5971459
-407,"302-7065 place Joseph-Michaud, Rivière des Prairies, QC, H1E 6K6",1,South,1.0,2.0,Condominium,3.0,231800.0,275000,1987.0,45.62853459999999,-73.6189899
-408,"1463 boulevard Alexis-Nihon, Saint-Laurent, QC, H4R 2R4",1,,1.5,3.0,Condominium,,406400.0,524500,1994.0,45.5101985,-73.699877
-409,"208-7210 21e Avenue, Villeray / St-Michel / Parc-Extension, QC, H2A 2J5",1,,1.0,3.0,Condominium,2.0,301900.0,339000,2012.0,45.5654457,-73.59266339999999
-410,"206-19500 rue du Sulky, Pierrefonds / Roxboro, QC, H9K 0B5",1,South,2.0,3.0,Condominium,2.0,,425000,2015.0,45.4549556,-73.9056465
-411,"2203-7441 avenue des Halles, Anjou, QC, H1M 3T4",625,,1.5,1.0,Condominium,2.0,,168500,1997.0,45.5964094,-73.56577560000001
-412,"908-185 rue du Séminaire, Griffintown, QC, H3C 2A3","1,303",,2.0,2.0,Condominium,9.0,,775000,2013.0,45.4910804,-73.5607065
-413,"2603-495 avenue Viger Ouest, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2Z 0B1",600,,1.0,1.0,Condominium,26.0,445600.0,449500,2014.0,45.5022354,-73.5632279
-414,"310-5232 rue du Sureau, Pierrefonds / Roxboro, QC, H8Z 0A4",975,,1.0,2.0,Condominium,3.0,279900.0,288889,2009.0,45.5141861,-73.83076
-415,"16143 rue Victoria, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5P9",1,East,1.0,3.0,Condominium,1.0,236266.0,229000,2003.0,45.6751784,-73.4958692
-416,"510-4900 boulevard de l'Assomption, Rosemont / La Petite Patrie, QC, H1T 0A3",86.7,,2.0,2.0,Condominium,5.0,392200.0,430000,2011.0,45.5696922,-73.5555086
-417,"3568 rue Dorion, Le Plateau-Mont-Royal, QC, H2K 4B6",1,South-West,1.5,2.0,Condominium,1.0,837000.0,590000,1910.0,45.5302101,-73.5656726
-418,"817-4950 rue de la Savane, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4P 1T7","1,193",,1.0,3.0,Condominium,8.0,,375000,2008.0,45.4998644,-73.6528699
-419,"16-433 boulevard Saint-Joseph Ouest, Outremont, QC, H2V 2P3",831,,1.0,1.0,Condominium,3.0,,439000,1937.0,45.5220328,-73.591376
-420,"411-6745 boulevard Maurice-Duplessis, Montréal-Nord, QC, H1G 1Z5",,North,1.0,2.0,Condominium,4.0,228233.0,249900,2012.0,45.6176845,-73.6142936
-421,"301-14360 rue Notre Dame Est, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 1V4",1,South-West,1.5,2.0,Condominium,3.0,317700.0,349000,1991.0,45.6723995,-73.4934299
-422,"1146-1414 rue Chomedey, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3H 0A2",64.6,,1.0,2.0,Condominium,11.0,412100.0,520000,2013.0,45.4910106,-73.5831333
-423,"209-6891 avenue Christophe-Colomb, Rosemont / La Petite Patrie, QC, H2S 2H3",833,East,1.5,1.0,Condominium,2.0,,425000,2016.0,45.5406725,-73.6071446
-424,"1-7880 boulevard Perras, Rivière des Prairies, QC, H1E 4X2",12.59x6.58,,1.0,2.0,Condominium,1.0,156600.0,165000,1984.0,45.63697000000001,-73.599164
-425,"1503-441 avenue du Président-Kennedy, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3A 0A4",704,,1.0,1.0,Condominium,15.0,362100.0,384000,2007.0,45.5067627,-73.57050869999999
-426,"8-14666 rue Lirette, Pierrefonds / Roxboro, QC, H9H 5E7",68.7,South-East,1.0,1.0,Condominium,2.0,165100.0,180000,1990.0,45.4870559,-73.85793439999999
-427,"302-600 76e Avenue, LaSalle, QC, H8R 0B8",833,,1.0,1.0,Condominium,3.0,,262500,2010.0,45.4176908,-73.6329267
-428,"306-5282 rue du Sureau, Pierrefonds / Roxboro, QC, H8Z 0A5",890,West,1.0,1.0,Condominium,3.0,212800.0,232900,2011.0,45.5150379,-73.8313539
-429,"208-1111 rue Arthur-Lismer, Ahuntsic / Cartierville, QC, H4N 3J3",59.9,,1.0,1.0,Condominium,2.0,169533.0,190000,1994.0,45.5370326,-73.6689324
-430,"326-2530 place Michel-Brault, Rosemont / La Petite Patrie, QC, H1Y 0B6",962,,1.0,2.0,Condominium,3.0,,375000,2015.0,45.5421071,-73.5737322
-431,"418-2530 place Michel-Brault, Le Plateau-Mont-Royal, QC, H1Y 0B6",473,North,1.5,0.0,Condominium,4.0,,207000,2015.0,45.5421071,-73.5737322
-432,"102-2660 rue Nicolet, Mercier / Hochelaga / Maisonneuve, QC, H1W 3L5",705,,1.0,2.0,Condominium,1.0,,215000,2009.0,45.5491877,-73.5534996
-433,"109-5720 chemin Upper-Lachine, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4A 2B2","1,004",,1.0,2.0,Condominium,1.0,,325000,2014.0,45.4680118,-73.61040779999999
-434,"15875 rue Victoria, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5P1",900,North,1.0,2.0,Condominium,2.0,143000.0,139900,1996.0,45.6751784,-73.4958692
-435,"301-1511 boulevard Shevchenko, LaSalle, QC, H8N 1P2",1,North-East,1.0,2.0,Condominium,3.0,238100.0,294000,2003.0,45.4315077,-73.62430220000002
-436,"706-10332 rue Paul-Comtois, Ahuntsic / Cartierville, QC, H4N 3B5",830,North-West,1.0,2.0,Condominium,7.0,,215000,1988.0,45.538213,-73.672979
-437,"2104-495 avenue Viger Ouest, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2Z 0B1",625,,1.0,1.0,Condominium,21.0,358400.0,439000,2014.0,45.5022354,-73.5632279
-438,"106-380 chemin de la Rive-Boisée, Pierrefonds / Roxboro, QC, H8Z 3K4",,,2.0,3.0,Condominium,1.0,,325000,1989.0,45.4981857,-73.853555
-439,"301-126 Boul Hymus, Pointe-Claire, QC, H9R 1E8",780,South-West,1.0,2.0,Condominium,3.0,,299000,2013.0,45.4669286,-73.80636299999999
-440,"3-5119 rue Saint-Ambroise, Le Sud-Ouest, QC, H4C 2E9","1,210",North,1.0,2.0,Condominium,3.0,,525000,2009.0,45.4685313,-73.5914227
-441,"11015 avenue Lausanne, Montréal-Nord, QC, H1H 5B6",100,,1.0,3.0,Condominium,1.0,,272000,2012.0,45.5871097,-73.648319
-442,"511-711 rue de la Commune Ouest, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3C 0P1",658,,1.0,1.0,Condominium,5.0,345000.0,363000,2014.0,45.4982312,-73.5528193
-443,"353 rue Saint-Hubert, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H2L 0A5",1,,2.0,4.0,Condominium,1.0,,1249000,2007.0,45.5122756,-73.5502644
-444,"206-680 chemin Bord-du-Lac-Lakeshore, Dorval / L'Île Dorval, QC, H9S 2B8",798,,1.0,1.0,Condominium,2.0,,315000,2013.0,45.4331919,-73.812981
-445,"302-7627 rue André-Arnoux, Rivière des Prairies, QC, H1E 7G1",1,,1.5,2.0,Condominium,3.0,239700.0,260000,2003.0,45.6286468,-73.5979728
-446,"213-230 chemin du Golf, L'Ile Des Soeurs, QC, H3E 2A8",997,,2.0,2.0,Condominium,2.0,,450000,2005.0,45.4683623,-73.5467369
-447,"9-2510 rue Lyall, Mercier / Hochelaga / Maisonneuve, QC, H1N 3G6",1,,1.0,2.0,Condominium,4.0,260000.0,232000,1964.0,45.5830999,-73.5304306
-448,"202-12032 rue Lachapelle, Ahuntsic / Cartierville, QC, H4J 2M4","1,200",,1.5,3.0,Condominium,2.0,245000.0,306000,1995.0,45.5269351,-73.7156696
-449,"1007-3581 boulevard Gouin Est, Montréal-Nord, QC, H1H 0A1",840,South-West,1.0,1.0,Condominium,10.0,258100.0,292000,2007.0,45.5916529,-73.6501925
-450,"504-795 rue Muir, Saint-Laurent, QC, H4L 5H8",1,,2.0,3.0,Condominium,5.0,430600.0,487000,1990.0,45.5221349,-73.6693241
-451,"209-680 chemin du Bord-du-Lac Lakeshore, Dorval / L'Île Dorval, QC, H9S 2B8",987.05,South,1.5,2.0,Condominium,2.0,,439000,2013.0,45.43347319999999,-73.8143707
-452,"1405-4755 boulevard Métropolitain Est, Saint-Léonard, QC, H1R 0C2",,,1.0,1.0,Condominium,14.0,,267500,2014.0,45.57694559999999,-73.5941601
-453,"7-107 rue McVey, LaSalle, QC, H8R 3T3",952.6,,1.0,2.0,Condominium,3.0,257000.0,295000,2008.0,45.4307031,-73.6480724
-454,"3-1405 rue Bélanger, Rosemont / La Petite Patrie, QC, H2G 1A3",800,North-West,1.0,2.0,Condominium,2.0,,298000,1936.0,45.5443661,-73.6055887
-455,"283-15500 rue Sherbrooke Est, Pointe-Aux-Trembles / Montréal-Est, QC, H1A 5V2",895,West,1.0,1.0,Condominium,3.0,,180000,2005.0,45.6302704,-73.5172225
-456,"1622 boulevard Alexis-Nihon, Saint-Laurent, QC, H4R 2X4",,,1.5,2.0,Condominium,1.0,373733.0,489000,1998.0,45.5107912,-73.703194
-457,"3492 rue Dorion, Le Plateau-Mont-Royal, QC, H2K 4B6",57.7,South-West,1.0,1.0,Condominium,3.0,250100.0,290000,1910.0,45.52985,-73.56494599999999
-458,"3106-1050 rue Drummond, Ville-Marie (Centre-Ville et Vieux Mtl), QC, H3B 0G3",806,North-West,2.0,1.0,Condominium,31.0,,688000,2017.0,45.496727,-73.5705672
-459,"210-5282 rue du Sureau, Pierrefonds / Roxboro, QC, H8Z 0A5",1,,2.0,2.0,Condominium,2.0,,280000,2011.0,45.5150379,-73.8313539
-460,"PH-801-7317 avenue Victoria, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4P 0A3","1,048.4",North-West,2.0,2.0,Condominium,8.0,432767.0,499900,2013.0,45.49962379999999,-73.6486372
-461,"208-460 19e Avenue, Lachine, QC, H8S 3S2",1,,1.5,0.0,Condominium,2.0,,255000,2012.0,45.4369917,-73.6808649
-462,"9-2505 avenue Van Horne, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H3S 1P5",1,,1.0,3.0,Condominium,2.0,,425000,1949.0,45.5281192,-73.6051129
-463,"8490 boulevard Saint-Michel, Villeray / St-Michel / Parc-Extension, QC, H1Z 3E8",950,South-East,1.0,2.0,Condominium,,,220000,2009.0,45.56662499999999,-73.616737
-464,"702-4975 rue Jean-Talon O, Côte-des-Neiges / Notre-Dame-de-Grâce, QC, H4P 1W7",72.2,West,1.0,2.0,Condominium,7.0,265400.0,399000,2012.0,45.5264142,-73.6243258
+,address,areas,backyard,bathrooms,bedrooms,category,floor_if_condo,municipal,postalcode,price,year
+0,"5985 Boyer, Rosemont / La Petite Patrie, QC","2,000 ft² (185.81 m²)",East,2.5,3.0,Condominium,1.0,394000.0,H2S 2H8,599000,1928
+1,"1008-3581 boulevard Gouin Est, Montréal-Nord, QC","1,100 ft² (102.19 m²)",,1.5,2.0,Condominium,10.0,316600.0,H1H 0A1,349000,2006
+2,"16107 rue Forsyth, Pointe-Aux-Trembles / Montréal-Est, QC",911 ft² (84.63 m²),North-West,1.0,2.0,Condominium,3.0,207200.0,H1A 5R8,200000,1999
+3,"711-680 rue de Courcelles, Le Sud-Ouest, QC",950 ft² (88.26 m²),South,1.0,2.0,Condominium,7.0,339500.0,H4C 0B8,415000,2011
+4,"1-5230 rue Resther, Le Plateau-Mont-Royal, QC",106.4 m² (1 145.28 ft²),,2.5,2.0,Condominium,1.0,350700.0,H2J 2W3,415000,2005
+5,"7361 avenue Victoria, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",1 073 ft² (99.68 m²),,2.0,2.0,Condominium,7.0,,H4P 0A7,440000,2011
+6,"104-9505 boulevard Gouin Ouest, Pierrefonds / Roxboro, QC",1 051 ft² (97.64 m²),,2.0,2.0,Condominium,1.0,,H8Y 1T7,293000,2012
+7,"2-1199 rue Joseph-Janot, Pointe-Aux-Trembles / Montréal-Est, QC",928 ft² (86.21 m²),,1.0,2.0,Condominium,1.0,142367.0,H1A 4Y7,159900,1987
+8,"205-2244 rue Harmony, Ville-Marie (Centre-Ville et Vieux Mtl), QC",786 ft² (73.02 m²),North-West,1.0,1.0,Condominium,2.0,228800.0,H2K 3P9,289000,2004
+9,"201-1450 12e avenue, Pointe-Aux-Trembles / Montréal-Est, QC",900 ft² (83.61 m²),,1.0,2.0,Condominium,2.0,,H1B 3Y7,175000,2009
+10,"203-4725 rue Messier, Le Plateau-Mont-Royal, QC",722 ft² (67.08 m²),South,1.0,2.0,Condominium,2.0,,H2H 2J2,329000,2014
+11,"305-9975 rue Lajeunesse, Ahuntsic / Cartierville, QC",763 ft² (70.89 m²),,1.0,2.0,Condominium,2.0,,H3L 2C9,255700,2013
+12,"10016 boulevard Perras, Rivière des Prairies, QC",1 113 ft² (103.40 m²),,1.0,3.0,Condominium,1.0,,H1C 1Z5,210000,2007
+13,"9975 rue de Lille, Ahuntsic / Cartierville, QC",903 ft² (83.89 m²),East,1.0,2.0,Condominium,2.0,,H2B 2P8,279000,1962
+14,"206-2747 rue Hochelaga, Ville-Marie (Centre-Ville et Vieux Mtl), QC",864 ft² (80.27 m²),,1.5,3.0,Condominium,2.0,244400.0,H2K 1J9,299000,2014
+15,"402-3155 3155 Avenue Ernest - Hemingway, Saint-Laurent, QC","1,040 ft² (96.62 m²)",North-East,1.5,2.0,Condominium,4.0,354300.0,H4R 0A2,389000,2006
+16,"1-4726 rue Chabot, Le Plateau-Mont-Royal, QC",578 ft² (53.70 m²),South-West,1.0,1.0,Condominium,1.0,215000.0,H2H 1Y3,267000,1940
+17,"3476 rue Sainte-Chaterine Est, Mercier / Hochelaga / Maisonneuve, QC",1 300 ft² (120.77 m²),South-East,1.0,3.0,Condominium,1.0,,H1W 2E2,405000,1900
+18,"104-5435 RUE SAINT-DENIS, Le Plateau-Mont-Royal, QC",697.5 ft² (64.80 m²),,1.0,2.0,Condominium,1.0,240900.0,H2J 4B7,289900,2011
+19,"5151 Duchesneau, Mercier / Hochelaga / Maisonneuve, QC",825 ft² (76.65 m²),,1.0,2.0,Condominium,1.0,216500.0,H1K 0E1,247000,2010
+20,"5-1815 avenue Morgan, Mercier / Hochelaga / Maisonneuve, QC",550 ft² (51.10 m²),East,1.5,1.0,Condominium,2.0,188000.0,H1V 2R1,200000,1953
+21,"602-1869 RUE BASIN, Griffintown, QC",917 ft² (85.19 m²),South-West,1.0,2.0,Condominium,6.0,,H3J 0A3,565000,2014
+22,"5-5634 RUE DE LA ROCHE, Rosemont / La Petite Patrie, QC",904 ft² (83.98 m²),,1.0,2.0,Condominium,3.0,340000.0,H2S 2C6,450000,2013
+23,"302-2040 avenue Aird, Mercier / Hochelaga / Maisonneuve, QC",1 003.96 ft² (93.27 m²),,1.0,2.0,Condominium,2.0,262500.0,H1V 3S7,345000,2002
+24,"D-1809 rue Masson, Le Plateau-Mont-Royal, QC",683.5 ft² (63.50 m²),,1.0,1.0,Condominium,3.0,,H2H 1A1,282500,2013
+25,"310-4211 rue de Rouen, Mercier / Hochelaga / Maisonneuve, QC",1 126 ft² (104.61 m²),,1.0,2.0,Condominium,3.0,318700.0,H1V 1G7,380000,2009
+26,"2-785 32e Avenue, Lachine, QC",875.86 ft² (81.37 m²),,1.0,2.0,Condominium,1.0,240800.0,H8T 3R9,338000,2007
+27,"4981 avenue Victoria, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",1 130 ft² (104.98 m²),North-East,2.0,3.0,Condominium,1.0,632500.0,H3W 2N2,777000,1928
+28,"2227 rue Florian, Ville-Marie (Centre-Ville et Vieux Mtl), QC",684 ft² (63.55 m²),,1.0,2.0,Condominium,3.0,193100.0,H2K 2P4,234000,1910
+29,"301-3330 rue Dandurand, Rosemont / La Petite Patrie, QC",772 ft² (71.72 m²),,1.0,2.0,Condominium,3.0,300000.0,H1X 1M6,315000,2012
+30,"607-8050 rue Jean-Chevalier, LaSalle, QC",860 ft² (79.90 m²),,1.0,1.0,Condominium,6.0,,H8N 0E3,315000,2016
+31,"A-4300 AV ISABELLA, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",979 ft² (90.95 m²),,2.0,2.0,Condominium,,,H3T 1N6,425000,2019
+32,"4300 avenue Isabella, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",1 920 ft² (178.37 m²),,2.0,0.0,Condominium,1.0,900800.0,H3T 1N6,750000,2019
+33,"2502-3535 Avenue Papineau, Le Plateau-Mont-Royal, QC",527 ft² (48.96 m²),East,1.0,1.0,Condominium,25.0,192800.0,H2K 4J9,225000,1972
+34,"213-2125 rue Remembrance, Lachine, QC",954.76 ft² (88.70 m²),,1.0,2.0,Condominium,2.0,,H8S 1X4,295000,2012
+35,"3-4816 rue de Chambly, Rosemont / La Petite Patrie, QC",1 158 ft² (107.58 m²),South-West,1.0,3.0,Condominium,2.0,332800.0,H1X 3N8,398500,1999
+36,"102-2000 rue Falardeau, Ville-Marie (Centre-Ville et Vieux Mtl), QC",81.3 m² (875.11 ft²),,1.0,2.0,Condominium,,,H2K 2L8,369000,2014
+37,"303-995 boulevard Jules-Poitras, Saint-Laurent, QC",595 ft² (55.28 m²),,1.0,1.0,Condominium,3.0,182000.0,H4N 3M2,224000,2006
+38,"6517 rue Cartier, Rosemont / La Petite Patrie, QC",1 066 ft² (99.03 m²),,1.0,2.0,Condominium,1.0,,H2G 2V8,338700,1998
+39,"5886 rue de Saint-Vallier, Rosemont / La Petite Patrie, QC",958 ft² (89.00 m²),South-West,1.0,2.0,Condominium,3.0,343200.0,H2S 2P3,425000,1927
+40,"301-2310 rue Modigliani, Saint-Laurent, QC",1 100 ft² (102.19 m²),,1.0,2.0,Condominium,3.0,,H4R 0J1,425000,2011
+41,"709-5661 avenue de Chateaubriand, Rosemont / La Petite Patrie, QC",1 073 ft² (99.68 m²),South-West,2.0,2.0,Condominium,7.0,517800.0,H2S 0B6,612500,2011
+42,"5-775 32e avenue, Lachine, QC",953 ft² (88.54 m²),West,1.5,2.0,Condominium,3.0,,H8T 3R9,299900,2008
+43,"2-5149 9e Avenue, Rosemont / La Petite Patrie, QC",958 ft² (89.00 m²),South-East,1.5,2.0,Condominium,1.0,,H1Y 2J5,424900,2014
+44,"83 avenue Beaumont, Rosemont / La Petite Patrie, QC",825 ft² (76.65 m²),North-West,1.0,2.0,Condominium,,263500.0,H2S 1J2,309000,2008
+45,"305-3300 avenue Troie, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",650 ft² (60.39 m²),,1.0,1.0,Condominium,3.0,328100.0,H3V 1A9,349000,2013
+46,"202-5330 rue Drolet, Le Plateau-Mont-Royal, QC",856 ft² (79.53 m²),East,1.0,2.0,Condominium,1.0,,H2T 2H4,430000,1995
+47,"205-3591 boulevard Gouin Est, Montréal-Nord, QC",1 071 ft² (99.50 m²),,2.0,2.0,Condominium,2.0,273600.0,H1H 5V7,309000,1992
+48,"203-1805 boulevard du Tricentenaire, Pointe-Aux-Trembles / Montréal-Est, QC",1 184 ft² (110.00 m²),,1.0,3.0,Condominium,2.0,174300.0,H1B 5S5,193000,1984
+49,"3974 rue Claude-Mouton, Rosemont / La Petite Patrie, QC","2,198 ft² (204.20 m²)",South,2.0,3.0,Condominium,1.0,,H1X 3N7,549000,1997
+50,"915 avenue Pratt, Outremont, QC",1 645 ft² (152.83 m²),North-East,2.0,4.0,Condominium,1.0,,H2V 2T9,978000,1925
+51,"2714 boulevard Saint-Joseph Est, Rosemont / La Petite Patrie, QC",491 ft² (45.62 m²),,1.0,1.0,Condominium,,,H1Y 2A8,250000,1957
+52,"2-2140 rue Victoria, Lachine, QC",818 ft² (75.99 m²),North,1.0,2.0,Condominium,1.0,,H8S 1Z3,206000,2010
+53,"6650 rue Garnier, Rosemont / La Petite Patrie, QC",922 ft² (85.66 m²),South-West,1.5,2.0,Condominium,,,H2G 3A1,425000,1952
+54,"114-88 rue Gary-Carter, Villeray / St-Michel / Parc-Extension, QC",578 ft² (53.70 m²),South,1.0,1.0,Condominium,,248000.0,H2R 2V7,319000,2017
+55,"201-5250 rue Resther, Le Plateau-Mont-Royal, QC",581.25 ft² (54.00 m²),West,1.0,1.0,Condominium,2.0,,H2J 2W4,349000,2007
+56,"5500 rue de Contrecoeur, Mercier / Hochelaga / Maisonneuve, QC",425 ft² (39.48 m²),,1.0,0.0,Condominium,,,H1K 0E4,148900,2010
+57,"2-2505 rue la Fontaine, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 000 ft² (92.90 m²),,1.0,2.0,Condominium,,209700.0,H2K 2A4,259900,2001
+58,"210-4675 rue Messier, Le Plateau-Mont-Royal, QC",1 217 ft² (113.06 m²),North,2.0,3.0,Condominium,2.0,,H2H 2J2,474900,2015
+59,"01-4235 rue de Chambly, Rosemont / La Petite Patrie, QC",89.5 m² (963.37 ft²),East,1.0,2.0,Condominium,,,H1X 3J8,262500,1987
+60,", Le Sud-Ouest, QC",603 ft² (56.02 m²),North,1.0,1.0,Condominium,7.0,201600.0,,nformation provided by the seller,2011
+61,"202-5990 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC",579 ft² (53.79 m²),,1.0,1.0,Condominium,2.0,152800.0,H1N 1X4,178000,2010
+62,"2199 boulevard de Maisonneuve Est, Ville-Marie (Centre-Ville et Vieux Mtl), QC",872 ft² (81.01 m²),North,1.0,2.0,Condominium,1.0,310500.0,H2K 2E4,349000,2003
+63,"5-4860 Avenue Henri-Julien, Le Plateau-Mont-Royal, QC",663 ft² (61.59 m²),South,1.0,1.0,Condominium,3.0,339600.0,H2T 2E1,355000,1995
+64,"206-4200 rue Saint-Ambroise, Le Sud-Ouest, QC",710 ft² (65.96 m²),,1.0,1.0,Condominium,2.0,243000.0,H4C 3R7,330000,2005
+65,"17-4119 avenue Madison, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",800 ft² (74.32 m²),South,1.0,2.0,Condominium,1.0,246000.0,H4B 2T8,419999,1989
+66,"4398 avenue Marcil, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",1 406 ft² (130.62 m²),South-West,1.0,3.0,Condominium,2.0,480000.0,H4A 2Z8,589000,1927
+67,"1113-479 avenue Mousseau-Vermette, Dorval / L'Île Dorval, QC",64.8 m² (697.50 ft²),,1.0,1.0,Condominium,1.0,,H9S 0A6,213500,2010
+68,"1-450 rue Sherbrooke, Lachine, QC",950 ft² (88.26 m²),,1.0,2.0,Condominium,,194900.0,H8S 1G4,238500,2006
+69,"101-920 avenue McEachran, Outremont, QC",1 794 ft² (166.67 m²),West,2.0,3.0,Condominium,,652400.0,H2V 3E2,849000,2005
+70,"3532 rue Cartier, Le Plateau-Mont-Royal, QC",922.5 ft² (85.70 m²),South-West,1.0,2.0,Condominium,2.0,,H2K 4G2,405000,1908
+71,"504-288 rue Ann, Griffintown, QC",678 ft² (62.99 m²),South-West,1.0,2.0,Condominium,5.0,,H3C 0L3,390000,2013
+72,"202-16065 rue Eugénie-Tessier, Pointe-Aux-Trembles / Montréal-Est, QC",76.7 m² (825.59 ft²),,1.0,2.0,Condominium,1.0,171200.0,H1A 0A2,169500,2005
+73,"1118 Rue Robin, Ville-Marie (Centre-Ville et Vieux Mtl), QC",930 ft² (86.40 m²),South-West,1.0,2.0,Condominium,2.0,,H2L 1W3,424900,2015
+74,"805-5105 boulevard de l'Assomption, Rosemont / La Petite Patrie, QC",1 087.15 ft² (101.00 m²),West,1.5,2.0,Condominium,8.0,,H1T 4B4,379000,1990
+75,"1611-1450 boulevard René-Lévesque Ouest, Ville-Marie (Centre-Ville et Vieux Mtl), QC",653 ft² (60.67 m²),,1.0,1.0,Condominium,16.0,,H3G 1T6,508000,2017
+76,"A-4064 avenue du parc-La Fontaine, Le Plateau-Mont-Royal, QC",666 ft² (61.87 m²),South-West,1.0,1.0,Condominium,,256300.0,H2L 3M8,289000,1993
+77,"521-1000 rue Ottawa, Griffintown, QC",511 ft² (47.47 m²),West,1.0,1.0,Condominium,5.0,197100.0,H3C 0P3,318000,2014
+78,"302-10294 boulevard Saint-Laurent, Ahuntsic / Cartierville, QC",82 m² (882.64 ft²),South-West,2.0,2.0,Condominium,3.0,,H3L 2N8,375000,2014
+79,"5411 12e Avenue, Rosemont / La Petite Patrie, QC",512 ft² (47.57 m²),,1.0,1.0,Condominium,,176100.0,H1X 1R5,177000,2016
+80,"439-7040 rue Allard, LaSalle, QC",845 ft² (78.50 m²),,1.0,1.0,Condominium,4.0,,H8N 0C9,399000,2015
+81,"301-9200 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC",1 205 ft² (111.95 m²),South-East,1.0,2.0,Condominium,3.0,,H1L 0B2,355000,2015
+82,"3244 avenue Mercier, Mercier / Hochelaga / Maisonneuve, QC",1 131 ft² (105.07 m²),,1.0,2.0,Condominium,1.0,,H1L 5J4,299000,2010
+83,"204-1012 rue Saint-Zotique Est, Rosemont / La Petite Patrie, QC",760 ft² (70.61 m²),,1.0,2.0,Condominium,2.0,,H2S 1N2,321000,2014
+84,"4416 rue Fabre, Le Plateau-Mont-Royal, QC",840 ft² (78.04 m²),,1.0,2.0,Condominium,2.0,,H2J 3V3,365000,1927
+85,"407-630 rue William, Ville-Marie (Centre-Ville et Vieux Mtl), QC",430 ft² (39.95 m²),,1.0,1.0,Condominium,4.0,,H3C 4C9,268800,2006
+86,"201-1440 rue Tillemont, Villeray / St-Michel / Parc-Extension, QC",939 ft² (87.24 m²),South-West,1.0,2.0,Condominium,1.0,283500.0,H2E 3B3,324500,2001
+87,"7710 avenue de Chateaubriand, Villeray / St-Michel / Parc-Extension, QC",763 ft² (70.89 m²),,1.0,2.0,Condominium,2.0,,H2R 2M3,295000,1920
+88,"405-5435 rue Saint-Denis, Le Plateau-Mont-Royal, QC",673 ft² (62.52 m²),,1.0,2.0,Condominium,4.0,251100.0,H2J 4B7,297500,2011
+89,"602-71 rue Duke, Ville-Marie (Centre-Ville et Vieux Mtl), QC",364 ft² (33.82 m²),,1.0,1.0,Condominium,6.0,,H3C 0L5,250000,2012
+90,"6455 Avenue Coolbrook, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",950.45 ft² (88.30 m²),North-East,1.0,2.0,Condominium,2.0,,H3X 2N3,467000,2016
+91,"1954 rue Panet, Ville-Marie (Centre-Ville et Vieux Mtl), QC",929 ft² (86.31 m²),West,1.0,1.0,Condominium,2.0,,H2L 3A2,379000,1900
+92,"903-1280 rue Saint-Jacques, Ville-Marie (Centre-Ville et Vieux Mtl), QC",700 ft² (65.03 m²),,1.0,1.0,Condominium,9.0,305400.0,H3C 0G1,374900,2006
+93,"205-3445 rue Drummond, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 142 ft² (106.10 m²),,2.0,2.0,Condominium,2.0,,H3G 1X9,475000,1958
+94,"307-1550 boulevard Henri-Bourassa Ouest, Ahuntsic / Cartierville, QC",805.14 ft² (74.80 m²),,1.0,2.0,Condominium,3.0,,H3M 3G4,215000,2005
+95,"7-2121 rue Disraeli, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 110 ft² (103.12 m²),West,1.5,2.0,Condominium,3.0,347200.0,H2K 0A6,400000,2011
+96,"1102-1740 rue Saint-Patrick, Le Sud-Ouest, QC",757 ft² (70.33 m²),South-West,1.0,2.0,Condominium,11.0,316600.0,H3K 0B3,415000,2015
+97,"302-9120 avenue Cérès, Pierrefonds / Roxboro, QC",1 500 ft² (139.35 m²),South,1.0,2.0,Condominium,3.0,,H8Y 3N7,335888,1989
+98,"1-4484 boulevard LaSalle, Verdun, QC",753 ft² (69.96 m²),South-East,1.0,1.0,Condominium,,167000.0,H4G 2A8,250000,1987
+99,"3458 rue Dorion, Le Plateau-Mont-Royal, QC",914 ft² (84.91 m²),South-West,1.0,2.0,Condominium,2.0,,H2K 4B6,337000,1915
+100,"201-4878 avenue Henri-Julien, Le Plateau-Mont-Royal, QC",680 ft² (63.17 m²),,1.0,1.0,Condominium,2.0,,H2T 2E1,325000,2009
+101,"105-211 rue Gordon, Verdun, QC",65.3 m² (702.88 ft²),South,1.0,1.0,Condominium,1.0,,H4G 2R2,330000,2014
+102,"408-1869 rue Basin, Griffintown, QC",592 ft² (55.00 m²),North,1.0,1.0,Condominium,4.0,,H3J 0A3,375000,2014
+103,"902-2110 rue Caroline-Beique, Ahuntsic / Cartierville, QC",912 ft² (84.73 m²),North-East,1.0,2.0,Condominium,9.0,,H4N 3K5,330000,2011
+104,"208-334 rue Notre-Dame Est, Ville-Marie (Centre-Ville et Vieux Mtl), QC",687 ft² (63.82 m²),South-East,1.5,1.0,Condominium,2.0,,H2Y 1C7,399000,2005
+105,"503-11891 rue Lachapelle, Ahuntsic / Cartierville, QC",73.4 m² (790.07 ft²),,1.0,2.0,Condominium,4.0,216200.0,H4J 2M2,225000,2010
+106,"214-4550 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC",800 ft² (74.32 m²),East,1.0,2.0,Condominium,2.0,,H1V 1C5,315000,2012
+107,"314A rue du Square-Saint-Louis, Le Plateau-Mont-Royal, QC",943 ft² (87.61 m²),South-East,1.0,2.0,Condominium,1.0,,H2X 1A5,369000,1885
+108,"105-10150 place de l'Acadie, Ahuntsic / Cartierville, QC",851 ft² (79.06 m²),South-West,1.0,2.0,Condominium,1.0,,H4N 0C5,279000,2014
+109,"#3-3774 rue Ontario Est, Mercier / Hochelaga / Maisonneuve, QC",785 ft² (72.93 m²),,1.0,2.0,Condominium,3.0,245000.0,H1W 1S2,285000,2008
+110,"502-6715 boulevard Maurice-Duplessis, Montréal-Nord, QC",808 ft² (75.07 m²),,1.0,2.0,Condominium,5.0,212800.0,H1G 1Z5,224900,2012
+111,"4489 rue Parthenais, Le Plateau-Mont-Royal, QC",885 ft² (82.22 m²),,1.0,3.0,Condominium,2.0,,H2H 2G6,379000,1910
+112,"304-21 rue Sherbrooke Est, Le Plateau-Mont-Royal, QC",979.1 ft² (90.96 m²),North-West,1.5,3.0,Condominium,3.0,338500.0,H2X 3V8,414000,1985
+113,"8178 avenue Casgrain, Villeray / St-Michel / Parc-Extension, QC",1 386 ft² (128.76 m²),South-West,1.5,3.0,Condominium,1.0,515000.0,H2P 2K5,614000,1926
+114,"1434 rue Fullum, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 393 ft² (129.41 m²),South-West,1.5,3.0,Condominium,2.0,,H2K 3M1,429900,1860
+115,"107-200 rue Berlioz, L'Ile Des Soeurs, QC",1 288 ft² (119.66 m²),North-East,2.0,2.0,Condominium,1.0,,H3E 1C1,458000,1984
+116,"402-7415 rue Cléophée-Têtu, Mercier / Hochelaga / Maisonneuve, QC",912 ft² (84.73 m²),East,1.0,2.0,Condominium,4.0,242600.0,H1N 0B4,269000,2009
+117,"601-440 19e Avenue, Lachine, QC",599 ft² (55.65 m²),,1.0,1.0,Condominium,6.0,229100.0,H8S 3S2,224900,2014
+118,"110-2500 avenue Pierre-Dupuy, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 440 ft² (133.78 m²),South,1.5,1.0,Condominium,1.0,465000.0,H3C 4L1,475000,1989
+119,"707-100 rue André-Prévost, L'Ile Des Soeurs, QC",874 ft² (81.20 m²),North-East,1.0,1.0,Condominium,7.0,,H3E 0C3,467000,2014
+120,"A-5549 10e Avenue, Rosemont / La Petite Patrie, QC",890 ft² (82.68 m²),,1.0,2.0,Condominium,,,H1Y 2G9,234500,1950
+121,"111-4950 rue de la Savane, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",82.3 m² (885.87 ft²),,1.0,2.0,Condominium,1.0,222600.0,H4P 1T7,329000,2008
+122,"462-1077 rue Saint-Mathieu, Ville-Marie (Centre-Ville et Vieux Mtl), QC",872 ft² (81.01 m²),,1.0,1.0,Condominium,4.0,282700.0,H3H 2S4,429000,1987
+123,"5-1490 rue Saint-Jacques, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 000 ft² (92.90 m²),,1.0,2.0,Condominium,2.0,,H3C 4J4,624900,1985
+124,"1104-7280 boulevard des Galeries d'Anjou, Anjou, QC",1 037 ft² (96.34 m²),,1.0,2.0,Condominium,11.0,294800.0,H1M 3Y1,339000,2006
+125,"3992 avenue des Érables, Le Plateau-Mont-Royal, QC",52.8 m² (568.33 ft²),South-West,1.0,1.0,Condominium,2.0,235000.0,H2K 3V8,317000,1998
+126,"303-1960 rue Saint-Jacques, Le Sud-Ouest, QC",744 ft² (69.12 m²),,1.0,1.0,Condominium,3.0,,H3J 2S1,329000,1985
+127,"410-1811 rue William, Le Sud-Ouest, QC",914 ft² (84.91 m²),South-West,1.0,2.0,Condominium,4.0,391600.0,H3J 0A7,579000,2013
+128,"303-126 boulevard Hymus, Pointe-Claire, QC",900 ft² (83.61 m²),South,1.0,1.0,Condominium,3.0,285000.0,H9R 1E8,284999,2011
+129,"6543 avenue des Ormeaux, Anjou, QC",747 ft² (69.40 m²),,1.5,2.0,Condominium,,192000.0,H1K 2X4,182000,2013
+130,"9460 rue Myra-Cree, Mercier / Hochelaga / Maisonneuve, QC",817 ft² (75.90 m²),South-West,1.0,2.0,Condominium,1.0,,H1K 0C9,259500,2010
+131,"520-4225 rue Saint-Dominique, Le Plateau-Mont-Royal, QC",982 ft² (91.23 m²),,1.0,1.0,Condominium,5.0,419900.0,H2W 2T5,568000,2005
+132,"608-1910 rue Basin, Griffintown, QC",890 ft² (82.68 m²),North-East,2.0,2.0,Condominium,6.0,,H3J 1S5,599000,2017
+133,", Lachine, QC",819 ft² (76.09 m²),,1.0,2.0,Condominium,2.0,,,nformation provided by the seller,2005
+134,"405-865 avenue Plymouth, Mont-Royal, QC",1 080 ft² (100.34 m²),West,2.0,2.0,Condominium,4.0,395800.0,H4P 1B2,565000,2013
+135,"1826 rue de la Visitation, Ville-Marie (Centre-Ville et Vieux Mtl), QC",120 m² (1 291.67 ft²),East,1.0,2.0,Condominium,1.0,,H2L 3C4,469000,2001
+136,"E-202-50 chemin Bates, Outremont, QC",108.7 m² (1 170.04 ft²),,2.0,2.0,Condominium,2.0,,H2V 1A8,555000,2001
+137,"104-2000 avenue Claremont, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",1 200 ft² (111.48 m²),,2.0,2.0,Condominium,1.0,,H3Z 2P8,559000,2007
+138,"1601-1000 rue Ottawa, Griffintown, QC",731 ft² (67.91 m²),,1.0,2.0,Condominium,16.0,,H3C 0P3,497000,2014
+139,"103-21 rue Sherbrooke Est, Le Plateau-Mont-Royal, QC",796 ft² (73.95 m²),,1.0,2.0,Condominium,1.0,293600.0,H2X 3V8,360000,1985
+140,"4337 rue Joliette, Rosemont / La Petite Patrie, QC",1 000 ft² (92.90 m²),West,1.5,2.0,Condominium,,,H1X 3L8,293000,1988
+141,"4-183 boulevard Bouchard, Dorval / L'Île Dorval, QC",961 ft² (89.28 m²),,1.0,2.0,Condominium,2.0,276500.0,H9S 1A9,345000,2011
+142,"608-888 rue Wellington, Ville-Marie (Centre-Ville et Vieux Mtl), QC",549 ft² (51.00 m²),South-West,1.0,1.0,Condominium,6.0,264600.0,H3C 0N1,305000,2015
+143,"12088 avenue Savard, Montréal-Nord, QC",1 235 ft² (114.74 m²),North-West,1.0,2.0,Condominium,3.0,250000.0,H1H 3N2,320000,1986
+144,"7-1355 rue Georges-Vermette, Pointe-Aux-Trembles / Montréal-Est, QC",86.31 m² (929.03 ft²),,1.0,2.0,Condominium,2.0,156900.0,H1A 4Y5,169000,1987
+145,"102-2823 rue Jacques-Hertel, Le Sud-Ouest, QC",586 ft² (54.44 m²),North,1.0,1.0,Condominium,1.0,,H4E 1S8,249000,2010
+146,"3-4515 rue André-Laurendeau, Rosemont / La Petite Patrie, QC",98.8 m² (1 063.47 ft²),South-East,1.5,2.0,Condominium,2.0,,H1Y 3R6,472000,2005
+147,"101-4900 boulevard de l'Assomption, Rosemont / La Petite Patrie, QC",85.4 m² (919.24 ft²),,1.5,2.0,Condominium,1.0,380400.0,H1T 0A2,425000,2011
+148,"1506-6900 boulevard Gouin Est, Montréal-Nord, QC",1 068.31 ft² (99.25 m²),South-West,1.0,2.0,Condominium,15.0,273600.0,H1G 6L9,269000,1982
+149,"825-1500 rue Basin, Griffintown, QC",663 ft² (61.59 m²),,1.0,1.0,Condominium,8.0,,H3C 0N3,390000,2014
+150,"3310-3111 rue Victoria, Lachine, QC",787 ft² (73.11 m²),West,1.0,1.0,Condominium,3.0,,H8S 0B1,254500,2013
+151,"101-4785 rue Messier, Le Plateau-Mont-Royal, QC",703 ft² (65.31 m²),,1.0,2.0,Condominium,1.0,296500.0,H2H 2J2,325000,2010
+152,"3514 rue de Bordeaux, Le Plateau-Mont-Royal, QC",493 ft² (45.80 m²),West,1.0,1.0,Condominium,3.0,,H2K 3Z3,199900,1922
+153,"219-750 32e Avenue, Lachine, QC",654 ft² (60.76 m²),,1.0,1.0,Condominium,2.0,,H8T 0A2,254000,2013
+154,"405-2305 rue Remembrance, Lachine, QC",985 ft² (91.51 m²),,1.0,2.0,Condominium,4.0,,H8S 0A9,288000,2012
+155,"109-4310 rue Saint-Jacques, Le Sud-Ouest, QC",1 016 ft² (94.39 m²),,2.0,2.0,Condominium,1.0,489000.0,H4C 1J6,655000,2017
+156,"3519 rue Cartier, Le Plateau-Mont-Royal, QC",1 015 ft² (94.30 m²),East,1.0,4.0,Condominium,1.0,,H2K 4G1,400000,1910
+157,"402-1550 boulevard Henri-Bourassa Ouest, Ahuntsic / Cartierville, QC",885.87 ft² (82.30 m²),South-East,1.0,2.0,Condominium,4.0,,H3M 3G4,249990,2005
+158,"2735 rue des Equinoxes, Saint-Laurent, QC",1 260 ft² (117.06 m²),North,1.5,3.0,Condominium,,397800.0,H4R 0C8,489000,2010
+159,"R2-5375 rue Beaubien Est, Rosemont / La Petite Patrie, QC",87.9 m² (946.15 ft²),West,1.0,2.0,Condominium,,267800.0,H1T 1W4,269900,2006
+160,"C301-50 chemin Bates, Outremont, QC",900 ft² (83.61 m²),,1.0,2.0,Condominium,3.0,,H2V 1A8,395000,2001
+161,"205-11131 rue Meighen, Pierrefonds / Roxboro, QC",970 ft² (90.12 m²),,2.0,2.0,Condominium,2.0,,H8Y 3H7,299900,2013
+162,"113-930 boulevard Marcel-Laurin, Saint-Laurent, QC",869.73 ft² (80.80 m²),North-East,1.0,2.0,Condominium,1.0,,H4M 0A3,275000,2007
+163,"204-7230 rue Alexandra, Villeray / St-Michel / Parc-Extension, QC",71.5 m² (769.62 ft²),,1.0,2.0,Condominium,2.0,,H2R 2Z2,425000,2015
+164,"5778 avenue des Érables, Rosemont / La Petite Patrie, QC",930 ft² (86.40 m²),,1.0,3.0,Condominium,1.0,323300.0,H2G 2M1,400000,1940
+165,"407-10681 rue de Martigny, Ahuntsic / Cartierville, QC",771 ft² (71.63 m²),,1.0,2.0,Condominium,4.0,,H2B 2M8,289000,2013
+166,"505-199 rue de la Rotonde, L'Ile Des Soeurs, QC",820 ft² (76.18 m²),South-East,1.0,2.0,Condominium,5.0,,H3E 0C1,449000,2012
+167,", Mercier / Hochelaga / Maisonneuve, QC",60.3 m² (649.06 ft²),,1.0,2.0,Condominium,1.0,178700.0,,nformation provided by the seller,2010
+168,"B-5700 avenue Christophe-Colomb, Rosemont / La Petite Patrie, QC",1 165 ft² (108.23 m²),North-West,1.0,3.0,Condominium,1.0,380400.0,H2S 2G1,595000,2002
+169,"4162 rue Adam, Mercier / Hochelaga / Maisonneuve, QC",750 ft² (69.68 m²),South-East,1.0,2.0,Condominium,3.0,264100.0,H1V 1S7,315000,1907
+170,"507-7270 avenue de Beaufort, Anjou, QC",1 234 ft² (114.64 m²),,1.0,2.0,Condominium,5.0,,H1M 3W4,360000,2002
+171,"1501-100 rue André-Prevost, L'Ile Des Soeurs, QC",2 400 ft² (222.97 m²),,2.5,3.0,Condominium,15.0,,H3E 0C3,1315000,2013
+172,"410-1830 rue Panet, Ville-Marie (Centre-Ville et Vieux Mtl), QC",51.9 m² (558.65 ft²),,1.0,1.0,Condominium,4.0,283200.0,H2L 0G1,320000,1913
+173,"6-204 rue Villeray, Villeray / St-Michel / Parc-Extension, QC",900 ft² (83.61 m²),South,1.0,2.0,Condominium,2.0,,H2R 1G5,430000,1930
+174,"5262 rue Fabre, Le Plateau-Mont-Royal, QC",2 160 ft² (200.67 m²),West,3.0,3.0,Condominium,1.0,520000.0,H2J 3W5,760000,1922
+175,"4768 rue Notre-Dame Ouest, Le Sud-Ouest, QC",100 m² (1 076.39 ft²),South-East,1.0,3.0,Condominium,1.0,,H4C 1S8,449000,1913
+176,"9589 rue Bellerive, Mercier / Hochelaga / Maisonneuve, QC",912 ft² (84.73 m²),North,1.5,2.0,Condominium,1.0,245000.0,H1L 3T1,249000,2008
+177,"750 rue Amherst, Ville-Marie (Centre-Ville et Vieux Mtl), QC",106.7 m² (1 148.51 ft²),,1.0,3.0,Condominium,1.0,,H2L 5C9,449000,2004
+178,"9450 rue Rousseau, Mercier / Hochelaga / Maisonneuve, QC",89.4 m² (962.29 ft²),,1.0,3.0,Condominium,2.0,249000.0,H1K 0E6,269900,2009
+179,"311-11401 rue de la Gauchetière, Pointe-Aux-Trembles / Montréal-Est, QC",889.1 ft² (82.60 m²),,1.0,2.0,Condominium,2.0,165800.0,H1B 2H1,179900,2006
+180,"B405-2635 rue Rufus-Rockhead, Le Sud-Ouest, QC",938 ft² (87.14 m²),,1.0,1.0,Condominium,4.0,264800.0,H3J 2W6,389000,1989
+181,", Mercier / Hochelaga / Maisonneuve, QC","1,021 ft² (94.85 m²)",South-West,1.0,2.0,Condominium,,247100.0,,nformation provided by the seller,2000
+182,"305-895 rue Muir, Saint-Laurent, QC",82.1 m² (883.72 ft²),East,1.0,2.0,Condominium,3.0,,H4L 5P4,318000,2005
+183,"218-3625 rue Jean-Gascon, Saint-Laurent, QC",764 ft² (70.98 m²),,1.0,1.0,Condominium,2.0,215000.0,H4R 0K6,305000,2015
+184,"1-2192 rue Théodore, Mercier / Hochelaga / Maisonneuve, QC",980 ft² (91.04 m²),West,1.0,2.0,Condominium,,,H1V 3C3,322000,2017
+185,"9461 rue J.-P. Ronfard, Mercier / Hochelaga / Maisonneuve, QC",827.74 ft² (76.90 m²),,1.0,2.0,Condominium,1.0,229100.0,H1K 0E3,219000,2009
+186,"120-4605 boulevard Henri-Bourassa Ouest, Saint-Laurent, QC",89.3 m² (961.22 ft²),,1.0,2.0,Condominium,1.0,205500.0,H4L 5H2,249000,1989
+187,"408-3300 avenue Troie, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",527 ft² (48.96 m²),,1.0,1.0,Condominium,4.0,339400.0,H3V 1A9,368000,2013
+188,"310-2530 place Michel-Brault, Rosemont / La Petite Patrie, QC",800 ft² (74.32 m²),,1.0,3.0,Condominium,3.0,,H1Y 0B6,358000,2015
+189,"508-2110 rue Caroline-Béique, Ahuntsic / Cartierville, QC",959 ft² (89.09 m²),,1.0,2.0,Condominium,5.0,258000.0,H4N 3K2,299900,2011
+190,"707-4255 avenue Prince-of-Wales, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",917 ft² (85.19 m²),East,1.0,3.0,Condominium,3.0,250000.0,H4B 0A2,400000,2008
+191,"514-2530 place Michel-Brault, Rosemont / La Petite Patrie, QC",64.4 m² (693.20 ft²),West,1.0,2.0,Condominium,5.0,,H1Y 0B6,375000,2013
+192,"403-4725 rue Messier, Le Plateau-Mont-Royal, QC",792 ft² (73.58 m²),,1.0,2.0,Condominium,4.0,,H2H 2J2,389000,2014
+193,"101-14522 rue Bernard-Geoffrion, Pointe-Aux-Trembles / Montréal-Est, QC",85.4 m² (919.24 ft²),South-East,1.0,2.0,Condominium,,,H1A 0B6,227000,2014
+194,"202-680 chemin du Bord du Lac, Dorval / L'Île Dorval, QC",835 ft² (77.57 m²),North,1.5,2.0,Condominium,2.0,,H9S 2B8,345995,2013
+195,"2045 rue Réal-Benoit, Pointe-Aux-Trembles / Montréal-Est, QC",990 ft² (91.97 m²),,1.0,2.0,Condominium,1.0,137100.0,H1A 5J4,165000,1994
+196,"1402-6900 boulevard Gouin Est, Montréal-Nord, QC",1 303 ft² (121.05 m²),,2.0,3.0,Condominium,14.0,395000.0,H1G 6L9,379000,1982
+197,"5698 place de Jumonville, Rosemont / La Petite Patrie, QC","1,150 ft² (106.84 m²)",,1.0,2.0,Condominium,2.0,,H1M 3W2,329000,1984
+198,"2098A rue Davidson, Mercier / Hochelaga / Maisonneuve, QC",1 500 ft² (139.35 m²),South-West,2.0,2.0,Condominium,1.0,,H1W 2Y8,398500,1911
+199,"5049 rue de Lanaudière, Le Plateau-Mont-Royal, QC",625 ft² (58.06 m²),East,1.0,1.0,Condominium,3.0,,H2J 3P9,299000,1924
+200,"505-4260 rue de Rouen, Mercier / Hochelaga / Maisonneuve, QC",940 ft² (87.33 m²),,2.0,2.0,Condominium,4.0,328700.0,H1V 1G9,360000,2014
+201,"302-14241 boulevard Cavendish, Saint-Laurent, QC",1 100 ft² (102.19 m²),,1.0,2.0,Condominium,3.0,,H4R 0E9,415000,2011
+202,"201-1844 rue des Carrières, Rosemont / La Petite Patrie, QC",1 325 ft² (123.10 m²),South-East,2.0,3.0,Condominium,1.0,429900.0,H2G 1W3,429500,2008
+203,"2520 rue Monsabré, Mercier / Hochelaga / Maisonneuve, QC","1,100 ft² (102.19 m²)",West,1.0,2.0,Condominium,1.0,216300.0,H1N 2K6,270000,2013
+204,"106-490 boulevard Galland, Dorval / L'Île Dorval, QC",770 ft² (71.54 m²),,1.0,1.0,Condominium,,,H9S 5T3,172500,1988
+205,"102-14450 rue Bernard-Geoffrion, Pointe-Aux-Trembles / Montréal-Est, QC",1 063 ft² (98.76 m²),South,1.0,2.0,Condominium,1.0,240000.0,H1A 0B6,245000,2013
+206,"2110-479 avenue Mousseau-Vermette, Dorval / L'Île Dorval, QC",57.9 m² (623.23 ft²),,1.0,1.0,Condominium,1.0,197900.0,H9S 0A6,222900,2012
+207,"2109 rue Baldwin, Mercier / Hochelaga / Maisonneuve, QC",1 066 ft² (99.03 m²),,1.0,2.0,Condominium,2.0,,H1L 5A5,257000,2006
+208,"6553 23e Avenue, Rosemont / La Petite Patrie, QC",937 ft² (87.05 m²),,1.5,2.0,Condominium,1.0,287.0,H1T 3N3,289000,2008
+209,"124-1200 rue Saint-Alexandre, Ville-Marie (Centre-Ville et Vieux Mtl), QC",422 ft² (39.21 m²),,1.5,1.0,Condominium,1.0,,H3B 3H5,245000,2009
+210,"3093 rue Lacordaire, Mercier / Hochelaga / Maisonneuve, QC",46.1 m² (496.22 ft²),East,1.0,1.0,Condominium,,170000.0,H1N 2N1,189500,2018
+211,"406-4550 2e Avenue, Rosemont / La Petite Patrie, QC",1 146 ft² (106.47 m²),,2.0,3.0,Condominium,4.0,,H1Y 0B2,458900,2015
+212,"4930 rue Bélanger, Rosemont / La Petite Patrie, QC",800 ft² (74.32 m²),,1.0,2.0,Condominium,,177600.0,H1T 1C6,210000,1998
+213,"308-6900 boulevard Gouin Est, Montréal-Nord, QC",1 300 ft² (120.77 m²),South-West,1.5,3.0,Condominium,3.0,285600.0,H1G 6L9,269900,1982
+214,"406-926 avenue Sainte-Croix, Saint-Laurent, QC",584.48 ft² (54.30 m²),,1.5,1.0,Condominium,4.0,,H4L 3Y6,224800,2009
+215,"4291 rue Ernest Gendreau, Rosemont / La Petite Patrie, QC",1 045 ft² (97.08 m²),East,1.0,2.0,Condominium,,,H1X 3M5,309000,1989
+216,"102-69 rue Berlioz, L'Ile Des Soeurs, QC",1 200 ft² (111.48 m²),,1.0,2.0,Condominium,1.0,,H3E 1N8,390000,1988
+217,"1-10 avenue Marsolais, Outremont, QC",1 388 ft² (128.95 m²),South-East,2.0,3.0,Condominium,1.0,1444500.0,H2V 1N2,624000,1921
+218,"306-205 boulevard Henri-Bourassa Ouest, Ahuntsic / Cartierville, QC",1 179 ft² (109.53 m²),,1.5,2.0,Condominium,3.0,,H3L 1N4,339000,2010
+219,"201-12590 rue Sherbrooke Est, Pointe-Aux-Trembles / Montréal-Est, QC",800 ft² (74.32 m²),North-East,1.0,1.0,Condominium,1.0,173100.0,H1B 1C9,175000,2007
+220,"3452 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC",690 ft² (64.10 m²),South-East,1.0,2.0,Condominium,3.0,,H1W 1H5,239000,1928
+221,"201-400 avenue Hearne, Pointe-Claire, QC",775 ft² (72.00 m²),,1.0,2.0,Condominium,2.0,,H9R 1K3,265000,2012
+222,"C-2024 rue Marie-Anne Est, Le Plateau-Mont-Royal, QC",1 067 ft² (99.13 m²),,1.0,3.0,Condominium,3.0,,H2H 1M4,435000,1930
+223,"6724 rue Alma, Rosemont / La Petite Patrie, QC",1 450 ft² (134.71 m²),South,2.5,3.0,Condominium,1.0,,H2S 2W7,890000,2016
+224,"401-425 rue Sainte-Hélène, Ville-Marie (Centre-Ville et Vieux Mtl), QC",545.73 ft² (50.70 m²),,1.0,1.0,Condominium,4.0,252800.0,H2Y 2K9,299000,2005
+225,"1288 avenue des Canadiens-de-Montréal, Ville-Marie (Centre-Ville et Vieux Mtl), QC",901 ft² (83.71 m²),,2.0,2.0,Condominium,12.0,,H3B 3B3,599999,2016
+226,"4900 boulevard de l'Assomption, Rosemont / La Petite Patrie, QC",777 ft² (72.19 m²),North-West,1.0,1.0,Condominium,1.0,284400.0,H1T 0A2,373000,2011
+227,"709-1500 rue Basin, Griffintown, QC",996 ft² (92.53 m²),,1.0,2.0,Condominium,7.0,478000.0,H3C 0N3,600000,2014
+228,"210-1070 rue de Bleury, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 018 ft² (94.58 m²),South-West,1.5,1.0,Condominium,2.0,,H2Z 1N3,698000,2012
+229,"204-55 rue Molière, Villeray / St-Michel / Parc-Extension, QC",66 m² (710.42 ft²),,1.0,1.0,Condominium,2.0,223900.0,H2R 1N7,285000,1960
+230,"108-1550 boulevard Henri-Bourassa Ouest, Ahuntsic / Cartierville, QC",73 m² (785.77 ft²),East,1.0,2.0,Condominium,1.0,,H3M 3G4,215000,2005
+231,"403-16065 rue Eugénie-Tessier, Pointe-Aux-Trembles / Montréal-Est, QC",1 016 ft² (94.39 m²),North-West,1.0,3.0,Condominium,3.0,204600.0,H1A 0A2,172000,2005
+232,"101-122 boulevard Hymus, Pointe-Claire, QC",948 ft² (88.07 m²),,2.0,2.0,Condominium,1.0,307300.0,H9R 1E8,339000,2015
+233,"5413 rue Gabriele-Frascadore, Mercier / Hochelaga / Maisonneuve, QC",4.09x22 173 m (13.42x72 746.06 ft),North-West,1.5,3.0,Condominium,,,H1K 0J1,348500,2012
+234,"310B-2118 rue Saint-Dominique, Ville-Marie (Centre-Ville et Vieux Mtl), QC",574 ft² (53.33 m²),,1.0,1.0,Condominium,3.0,270000.0,H2X 2X3,283000,2014
+235,"3110-1288 avenue des Canadiens-de-Montréal, Ville-Marie (Centre-Ville et Vieux Mtl), QC",45.2 m² (486.53 ft²),South-West,1.0,1.0,Condominium,31.0,423000.0,H3B 3B3,495000,2016
+236,"119-8 rue Gary-Carter, Villeray / St-Michel / Parc-Extension, QC",906.5 ft² (84.22 m²),East,2.0,2.0,Condominium,1.0,,H2R 0A8,599000,2015
+237,"2B-10685 avenue de Lorimier, Ahuntsic / Cartierville, QC",1 054 ft² (97.92 m²),South-West,1.0,2.0,Condominium,2.0,,H2B 2J4,275000,2003
+238,"606-6500 boulevard Henri-Bourassa Ouest, Saint-Laurent, QC",650 ft² (60.39 m²),,1.0,1.0,Condominium,6.0,215800.0,H4R 0G6,274000,2013
+239,"4-5720 rue Laurendeau, Le Sud-Ouest, QC",884 ft² (82.13 m²),South,1.0,2.0,Condominium,1.0,230300.0,H4E 3W7,279000,2007
+240,"211-3990 rue Jarry Est, Villeray / St-Michel / Parc-Extension, QC",686 ft² (63.73 m²),,1.0,2.0,Condominium,2.0,217500.0,H1Z 0A5,214000,2012
+241,"701-4530 rue Clark, Le Plateau-Mont-Royal, QC",900 ft² (83.61 m²),,1.0,2.0,Condominium,7.0,370200.0,H2T 2T4,425000,2001
+242,"1-2083 rue Beaudry, Ville-Marie (Centre-Ville et Vieux Mtl), QC",685 ft² (63.64 m²),North-East,1.0,2.0,Condominium,,225900.0,H2L 3G4,264000,1933
+243,"7-13520 rue Sherbrooke Est, Pointe-Aux-Trembles / Montréal-Est, QC",953 ft² (88.54 m²),,1.0,3.0,Condominium,3.0,,H1A 4L6,169500,1983
+244,"317-363 rue Saint-Hubert, Ville-Marie (Centre-Ville et Vieux Mtl), QC",102 m² (1 097.92 ft²),,2.0,2.0,Condominium,3.0,,H2L 0A8,610000,2007
+245,"7-600 rue Osborne, Verdun, QC",613 ft² (56.95 m²),,1.0,1.0,Condominium,2.0,,H4H 1X2,257000,1925
+246,"103-4601 rue Messier, Le Plateau-Mont-Royal, QC",881 ft² (81.85 m²),West,1.0,1.0,Condominium,1.0,352900.0,H2H 2J2,429900,2012
+247,"805-370 rue Saint-André, Ville-Marie (Centre-Ville et Vieux Mtl), QC","1,017 ft² (94.48 m²)",,1.5,2.0,Condominium,8.0,,H2L 0C4,629000,2011
+248,"6929 rue Marie-Guyart, LaSalle, QC","1,129.17 ft² (104.90 m²)",,1.5,3.0,Condominium,1.0,,H8N 3G9,399000,2003
+249,"4452 rue d'Iberville, Le Plateau-Mont-Royal, QC",868 ft² (80.64 m²),South-West,1.0,3.0,Condominium,1.0,,H2H 2L8,459000,2008
+250,"12054 avenue Savard, Montréal-Nord, QC",1 015 ft² (94.30 m²),South-East,1.0,2.0,Condominium,1.0,216500.0,H1H 3N2,269000,1987
+251,"4345 rue Joliette, Rosemont / La Petite Patrie, QC",945 ft² (87.79 m²),West,1.0,2.0,Condominium,,213800.0,H1X 3L8,274000,1988
+252,"1218-4959 rue Jean Talon Ouest, Côte-des-Neiges / Notre-Dame-de-Grâce, QC","1,515 ft² (140.75 m²)",,2.0,3.0,Condominium,12.0,,H4P 0B8,809000,2018
+253,"114-219 rue Maria, Le Sud-Ouest, QC",53.2 m² (572.64 ft²),,1.0,1.0,Condominium,1.0,234900.0,H4C 0B5,289900,2012
+254,"1105 rue Alexander-C.-Hutchison, Pointe-Aux-Trembles / Montréal-Est, QC",1 164 ft² (108.14 m²),,1.5,2.0,Condominium,1.0,,H1A 5N2,175000,1995
+255,"439 rue Saint-Claude, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 007 ft² (93.55 m²),North-East,1.0,2.0,Condominium,,,H2Y 3B6,499000,1997
+256,"703-1375 rue Basin, Griffintown, QC",739 ft² (68.66 m²),South,1.0,2.0,Condominium,7.0,,H3C 1W3,479500,2017
+257,"8781 rue Saint-Denis, Ahuntsic / Cartierville, QC",1 227.1 ft² (114.00 m²),South,1.0,2.0,Condominium,,,H2M 1N3,287000,1951
+258,"213-19500 rue du Sulky, Pierrefonds / Roxboro, QC",561 ft² (52.12 m²),West,1.0,1.0,Condominium,2.0,,H9K 0A5,219995,2015
+259,"204-300 rue Desmarteau, Mercier / Hochelaga / Maisonneuve, QC",1 007 ft² (93.55 m²),,1.0,2.0,Condominium,1.0,,H1L 3S4,416500,2010
+260,"2-5192 avenue Henri-Julien, Le Plateau-Mont-Royal, QC",885 ft² (82.22 m²),,1.0,2.0,Condominium,1.0,,H2T 2E5,339000,1998
+261,"1-659 terrasse du Ruisseau, Lachine, QC",704 ft² (65.40 m²),East,1.0,1.0,Condominium,,154533.0,H8T 3L6,198500,1988
+262,"5410 rue Gabrielle-Frascadore, Mercier / Hochelaga / Maisonneuve, QC",675 ft² (62.71 m²),,1.0,1.0,Condominium,,175000.0,H1K 0H9,175000,2011
+263,"5651 place de Jumonville, Rosemont / La Petite Patrie, QC",1 200 ft² (111.48 m²),,2.0,3.0,Condominium,,,H1M 3W1,412000,1984
+264,"202-2960 rue Saint-Patrick, Le Sud-Ouest, QC",1 120 ft² (104.05 m²),South,1.0,2.0,Condominium,2.0,390000.0,H3K 3H6,497500,2002
+265,"405-8520 rue Raymond-Pelletier, Ahuntsic / Cartierville, QC",1 212 ft² (112.60 m²),North-West,2.0,3.0,Condominium,4.0,380600.0,H2M 0A4,429000,2008
+266,"101-250 chemin de la Pointe-Sud, L'Ile Des Soeurs, QC",1 066 ft² (99.03 m²),South,1.5,1.0,Condominium,1.0,,H3E 0A8,564900,2009
+267,"1212-1150 rue Saint-Denis, Ville-Marie (Centre-Ville et Vieux Mtl), QC",625 ft² (58.06 m²),,1.0,1.0,Condominium,12.0,,H2X 0B3,354000,2013
+268,"710-100 rue André-Prévost, L'Ile Des Soeurs, QC",1 078 ft² (100.15 m²),South-West,2.0,2.0,Condominium,7.0,425600.0,H3E 0C3,549000,2014
+269,"112-2190 rue Préfontaine, Mercier / Hochelaga / Maisonneuve, QC",863 ft² (80.18 m²),East,1.5,1.0,Condominium,1.0,,H1W 2P3,314999,2013
+270,"301-6505 rue Fabre, Rosemont / La Petite Patrie, QC",753 ft² (69.96 m²),,1.5,1.0,Condominium,3.0,306900.0,H2G 2Z4,337000,2005
+271,"1013-3535 avenue Papineau, Le Plateau-Mont-Royal, QC",1 238 ft² (115.01 m²),,2.0,3.0,Condominium,10.0,459000.0,H2K 4J9,538000,1973
+272,"1158-10650 place de l'Acadie, Ahuntsic / Cartierville, QC",852 ft² (79.15 m²),,1.0,2.0,Condominium,11.0,259100.0,H4N 0B6,285000,2012
+273,"425-111 chemin de la Pointe-Nord, L'Ile Des Soeurs, QC",1 055 ft² (98.01 m²),,2.0,2.0,Condominium,4.0,,H3E 0B3,459000,2011
+274,"509-7501 avenue Mountain Sights, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",65.3 m² (702.88 ft²),,1.0,1.0,Condominium,5.0,310000.0,H4P 0A8,344000,2011
+275,"15883 rue Victoria, Pointe-Aux-Trembles / Montréal-Est, QC",84 m² (904.17 ft²),North-East,1.0,2.0,Condominium,2.0,147000.0,H1A 5P1,165000,1996
+276,"2203-10800 avenue Millen, Ahuntsic / Cartierville, QC",825 ft² (76.65 m²),South-East,1.0,1.0,Condominium,2.0,253300.0,H2C 0A3,339000,2012
+277,"2-7600 18e Avenue, Villeray / St-Michel / Parc-Extension, QC",533 ft² (49.52 m²),North-East,1.0,1.0,Condominium,,,H2A 2N2,150000,2010
+278,"710-88 rue Charlotte, Ville-Marie (Centre-Ville et Vieux Mtl), QC",749 ft² (69.58 m²),,1.0,1.0,Condominium,7.0,,H2X 4E2,400000,2005
+279,"3520 rue de Bordeaux, Le Plateau-Mont-Royal, QC",982 ft² (91.23 m²),West,1.0,3.0,Condominium,1.0,,H2K 3Z3,465000,1922
+280,"305-3020 rue du Trianon, Mercier / Hochelaga / Maisonneuve, QC",86.5 m² (931.08 ft²),West,1.0,2.0,Condominium,3.0,243500.0,H1N 0A1,258500,2006
+281,"108-5200 boulevard des Sources, Pierrefonds / Roxboro, QC",658.75 ft² (61.20 m²),,1.0,1.0,Condominium,1.0,184300.0,H8Z 3M4,197000,2004
+282,"301-760 chemin Marie le Ber, L'Ile Des Soeurs, QC",600 ft² (55.74 m²),,1.0,1.0,Condominium,3.0,,H3E 1W6,221900,1994
+283,"107-10332 rue Paul-Comtois, Ahuntsic / Cartierville, QC",874 ft² (81.20 m²),South-West,1.0,2.0,Condominium,1.0,,H4N 3B5,218000,1988
+284,"106-2200 rue Harriet-Quimby, Saint-Laurent, QC",906 ft² (84.17 m²),South-East,1.0,2.0,Condominium,1.0,394200.0,H4R 0L2,424900,2014
+285,"8892 boulevard Perras, Rivière des Prairies, QC",896 ft² (83.24 m²),South,1.0,2.0,Condominium,3.0,197200.0,H1E 5X7,229900,2008
+286,"302-1625 rue Clark, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 230 ft² (114.27 m²),,2.0,2.0,Condominium,3.0,,H2X 2R4,577000,2010
+287,"6-484 avenue Mousseau-Vermette, Dorval / L'Île Dorval, QC","1,210 ft² (112.41 m²)",,1.5,2.0,Condominium,3.0,319500.0,H9S 0A7,374900,2011
+288,"303-5251 rue Riviera, Pierrefonds / Roxboro, QC",977 ft² (90.77 m²),,1.0,2.0,Condominium,3.0,206700.0,H8Z 3H7,225000,1988
+289,"607-3581 boulevard Gouin Est, Montréal-Nord, QC",830 ft² (77.11 m²),North,1.5,1.0,Condominium,6.0,246800.0,H1H 0A1,237000,2007
+290,"4-12330 rue René-Chopin, Rivière des Prairies, QC",94.1 m² (1 012.88 ft²),West,1.0,2.0,Condominium,2.0,187000.0,H1E 7E5,230300,1991
+291,"6-431 21e Avenue, Lachine, QC",73.3 m² (788.99 ft²),,1.0,2.0,Condominium,2.0,,H8S 0A4,249900,2009
+292,"613-760 chemin Marie-Le Ber, L'Ile Des Soeurs, QC",927 ft² (86.12 m²),,1.0,1.0,Condominium,6.0,,H3E 1W6,325000,1995
+293,"608-795 chemin du Bord-du-Lac Lakeshore, Dorval / L'Île Dorval, QC",936.5 ft² (87.00 m²),,2.0,1.0,Condominium,6.0,,H9S 0A8,398500,2010
+294,"215-2600 place Chassé, Rosemont / La Petite Patrie, QC",1 140 ft² (105.91 m²),,2.0,3.0,Condominium,2.0,,H1Y 0A9,443900,2014
+295,"906-4755 boulevard Métropolitaine Est, Saint-Léonard, QC",1 196 ft² (111.11 m²),,2.0,2.0,Condominium,9.0,,H1R 0C2,424600,2014
+296,"16106 rue Forsyth, Pointe-Aux-Trembles / Montréal-Est, QC",920 ft² (85.47 m²),,1.0,2.0,Condominium,3.0,192900.0,H1A 5S9,185000,2002
+297,"304-6715 boulevard Maurice-Duplessis, Montréal-Nord, QC",703 ft² (65.31 m²),South,1.5,1.0,Condominium,3.0,164767.0,H1G 1Z5,178000,2012
+298,"2-4820 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC","93.8 m² (1,009.65 ft²)",South-East,1.5,3.0,Condominium,1.0,262000.0,H1V 3V7,332500,2001
+299,"4147 avenue des Érables, Le Plateau-Mont-Royal, QC",1 032 ft² (95.88 m²),,1.0,2.0,Condominium,1.0,,H2K 3V7,425000,2012
+300,"107-975 boulevard de la Côte-Vertu, Saint-Laurent, QC",54 m² (581.25 ft²),West,1.0,1.0,Condominium,1.0,173600.0,H4L 1Y7,205000,2011
+301,"2228 rue Cartier, Ville-Marie (Centre-Ville et Vieux Mtl), QC",863 ft² (80.18 m²),South-West,1.0,2.0,Condominium,2.0,,H2K 4E8,325000,2003
+302,"5497 avenue Coolbrook, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",1 224 ft² (113.71 m²),,2.0,3.0,Condominium,2.0,,H3X 2L3,412000,1925
+303,"7-2025 avenue de la Salle, Mercier / Hochelaga / Maisonneuve, QC",2 165 ft² (201.14 m²),,1.5,1.0,Condominium,2.0,529200.0,H1V 2K6,599000,2001
+304,"104-2375 avenue Ekers, Mont-Royal, QC",1 350 ft² (125.42 m²),,2.0,3.0,Condominium,,,H3S 1C6,549000,2011
+305,"304-12675 avenue Fernand-Gauthier, Rivière des Prairies, QC",948 ft² (88.07 m²),,1.0,2.0,Condominium,3.0,,H1E 2X2,189900,2005
+306,"8593 rue Foucher, Villeray / St-Michel / Parc-Extension, QC",1 540 ft² (143.07 m²),South-West,1.5,3.0,Condominium,1.0,,H2P 2C3,600000,1930
+307,"1603 avenue Bourbonniere, Mercier / Hochelaga / Maisonneuve, QC",772 ft² (71.72 m²),,1.0,2.0,Condominium,2.0,198400.0,H1W 3N5,229777,1908
+308,"533-2000 rue Basin, Griffintown, QC",603.87 ft² (56.10 m²),,1.0,1.0,Condominium,5.0,,H3J 0B6,330000,2018
+309,"503-4260 rue de Rouen, Mercier / Hochelaga / Maisonneuve, QC",1 206 ft² (112.04 m²),South,2.0,2.0,Condominium,5.0,435600.0,H1V 1G9,499000,2013
+310,"4-227 boulevard Bouchard, Dorval / L'Île Dorval, QC",956 ft² (88.82 m²),,1.0,2.0,Condominium,2.0,,H9S 1A9,317000,2015
+311,"301-100 rue Berlioz, L'Ile Des Soeurs, QC",76 m² (818.06 ft²),,1.0,1.0,Condominium,3.0,,H3E 1N4,349900,1987
+312,"4-14540 rue Sherbrooke Est, Pointe-Aux-Trembles / Montréal-Est, QC",1 288 ft² (119.66 m²),South-East,1.5,2.0,Condominium,2.0,,H1A 5T8,234000,2003
+313,"304-5151 boulevard Léger, Montréal-Nord, QC",453 ft² (42.09 m²),North-East,1.0,1.0,Condominium,3.0,153000.0,H1G 1J9,133000,2011
+314,"302-14421 rue Harry-Worth, Pierrefonds / Roxboro, QC",1 190 ft² (110.55 m²),North-West,2.0,2.0,Condominium,3.0,,H9H 5N1,336000,2006
+315,"5-6870 25e Avenue, Rosemont / La Petite Patrie, QC","1,170 ft² (108.70 m²)",,1.0,3.0,Condominium,2.0,,H1T 3L9,389000,2010
+316,"3-8881 boulevard des Galeries d'Anjou, Anjou, QC",942 ft² (87.51 m²),,1.0,2.0,Condominium,2.0,,H1J 1X1,234900,1986
+317,"802-7200 avenue M.-B.-Jodoin, Anjou, QC",950 ft² (88.26 m²),South,1.0,2.0,Condominium,8.0,220900.0,H1J 2R4,219000,1987
+318,"3-5976 2e Avenue, Rosemont / La Petite Patrie, QC",2 250 ft² (209.03 m²),,2.0,3.0,Condominium,2.0,,H1Y 2Y9,849000,2010
+319,"302-11015 boulevard Cavendish, Saint-Laurent, QC",1 015 ft² (94.30 m²),,1.5,2.0,Condominium,3.0,243300.0,H4R 2H5,279000,1982
+320,"301-4620 rue Fullum, Le Plateau-Mont-Royal, QC",953 ft² (88.54 m²),South-West,1.0,2.0,Condominium,3.0,,H2H 2S1,455000,2012
+321,"1302-6900 boulevard Gouin Est, Montréal-Nord, QC",1 304 ft² (121.15 m²),North-West,2.0,3.0,Condominium,13.0,315900.0,H1G 6L9,299900,1982
+322,"415-3625 rue Jean-Gascon, Saint-Laurent, QC",1 217.4 ft² (113.10 m²),,2.0,3.0,Condominium,4.0,,H4R 0K6,498000,2014
+323,"9407 rue de Grosbois, Mercier / Hochelaga / Maisonneuve, QC",966 ft² (89.74 m²),,1.0,2.0,Condominium,2.0,,H1K 0E1,264000,2010
+324,"107-6900 boulevard Gouin Est, Montréal-Nord, QC",1 240 ft² (115.20 m²),South-East,2.0,3.0,Condominium,1.0,,H1G 6L9,325000,1982
+325,", Mercier / Hochelaga / Maisonneuve, QC",951 ft² (88.35 m²),West,1.0,2.0,Condominium,2.0,247000.0,,nformation provided by the seller,2012
+326,"3963 rue Drolet, Le Plateau-Mont-Royal, QC","1,275 ft² (118.45 m²)",East,2.0,2.0,Condominium,2.0,,H2W 2L3,575000,2006
+327,"5336 13e Avenue, Rosemont / La Petite Patrie, QC","1,200 ft² (111.48 m²)",,1.5,2.0,Condominium,2.0,272000.0,H1X 2X8,342000,1994
+328,"903-4500 chemin de la Côte-des-Neiges, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",1 220 ft² (113.34 m²),,2.0,2.0,Condominium,9.0,612500.0,H3V 0A1,750000,2012
+329,"506-230 rue Sherbrooke Est, Ville-Marie (Centre-Ville et Vieux Mtl), QC",750 ft² (69.68 m²),South,1.5,1.0,Condominium,5.0,,H2X 1E1,425000,1900
+330,"102-2365 rue des Carrières, Rosemont / La Petite Patrie, QC",652 ft² (60.57 m²),,1.0,1.0,Condominium,1.0,,H2G 1X6,279000,2014
+331,"2816-1288 avenue des Canadiens-de-Montréal, Ville-Marie (Centre-Ville et Vieux Mtl), QC",504 ft² (46.82 m²),,1.0,1.0,Condominium,28.0,,H3B 2S2,428000,2016
+332,"2311 avenue Madison, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",98.6 m² (1 061.32 ft²),South-West,1.5,2.0,Condominium,3.0,795933.0,H4B 2T5,469000,1928
+333,"207-5363 rue Saint-Denis, Le Plateau-Mont-Royal, QC",691 ft² (64.20 m²),,1.0,1.0,Condominium,2.0,223233.0,H2J 0A8,264900,2013
+334,"302-1295 boulevard du Tricentenaire, Pointe-Aux-Trembles / Montréal-Est, QC",979 ft² (90.95 m²),,1.0,2.0,Condominium,3.0,,H1B 3A9,174900,1984
+335,"1-813 rue Gameroff, Lachine, QC",1 048 ft² (97.36 m²),,1.0,2.0,Condominium,1.0,,H8T 3R7,359000,2006
+336,"103-1600 rue Robert-Charbonneau, Ahuntsic / Cartierville, QC",82.8 m² (891.25 ft²),South,1.0,2.0,Condominium,1.0,190100.0,H4N 2Y1,216000,1983
+337,"4220A rue de Mentana, Le Plateau-Mont-Royal, QC",900 ft² (83.61 m²),South-West,1.0,2.0,Condominium,2.0,384767.0,H2J 3B2,419000,1980
+338,"9970 rue Saint-Patrick, LaSalle, QC",1 050 ft² (97.55 m²),,1.0,2.0,Condominium,,234000.0,H8R 1S3,275000,1999
+339,"1010 rue Thierry, LaSalle, QC","1,675 ft² (155.61 m²)",West,2.0,3.0,Condominium,1.0,,H8N 2Y6,420000,1993
+340,"201-9387 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC",1 067 ft² (99.13 m²),,1.0,3.0,Condominium,2.0,294900.0,H1L 2P7,274000,2011
+341,"1102-7705 rue du Mans, Saint-Léonard, QC",90 m² (968.75 ft²),North-East,1.0,2.0,Condominium,11.0,,H1S 2A2,300000,2008
+342,"504-740 boulevard Montpellier, Saint-Laurent, QC",950 ft² (88.26 m²),North-West,1.0,2.0,Condominium,5.0,221000.0,H4L 5B1,244000,1977
+343,"611-1500 rue Basin, Griffintown, QC",661 ft² (61.41 m²),South-West,1.0,1.0,Condominium,6.0,,H3C 0N3,359000,2014
+344,"705-6851 boulevard des Roseraies, Anjou, QC",1 308 ft² (121.52 m²),East,1.5,3.0,Condominium,7.0,,H1M 3N3,319000,1989
+345,"102-9640 rue William-Fleming, LaSalle, QC",923 ft² (85.75 m²),South,2.0,2.0,Condominium,1.0,,H8R 0C4,332000,2016
+346,"3526 avenue de Lorimier, Le Plateau-Mont-Royal, QC",1 430 ft² (132.85 m²),South-West,1.0,3.0,Condominium,3.0,,H2K 3X6,599000,1922
+347,"105-6900 boulevard Gouin Est, Montréal-Nord, QC",1 075 ft² (99.87 m²),North-East,1.0,2.0,Condominium,1.0,260600.0,H1G 6L9,254900,1982
+348,"1006-2000 rue Drummond, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 125 ft² (104.52 m²),,2.0,2.0,Condominium,10.0,733800.0,H3G 2X1,790000,2006
+349,"215-2335 avenue Bennett, Mercier / Hochelaga / Maisonneuve, QC",538.19 ft² (50.00 m²),,1.5,1.0,Condominium,2.0,,H1V 2T6,238000,2014
+350,"B6-925 croissant du Ruisseau, Saint-Laurent, QC",1 163 ft² (108.05 m²),,1.0,2.0,Condominium,6.0,,H4L 5C5,379900,1985
+351,"R5-2502 rue Bossuet, Mercier / Hochelaga / Maisonneuve, QC",66.8 m² (719.03 ft²),West,1.0,1.0,Condominium,,160300.0,H1N 2S4,177000,2004
+352,"102-6746 29e avenue, Rosemont / La Petite Patrie, QC",816 ft² (75.81 m²),,1.0,2.0,Condominium,1.0,,H1T 3H6,284900,2014
+353,"1507-6900 boulevard Gouin Est, Montréal-Nord, QC",1 238 ft² (115.01 m²),South-East,1.0,2.0,Condominium,15.0,300200.0,H1G 6L9,299000,1982
+354,"A-1028 rue Thierry, LaSalle, QC",751 ft² (69.77 m²),,1.0,1.0,Condominium,1.0,159733.0,H8N 2Y6,182000,1993
+355,"324 avenue Prince-Albert, Westmount, QC",2 400 ft² (222.97 m²),South-West,3.0,5.0,Condominium,1.0,,H3Z 2N8,1299000,1905
+356,"705-6995 boulevard Gouin Est, Montréal-Nord, QC",983 ft² (91.32 m²),North-East,1.0,2.0,Condominium,7.0,,H1G 6L1,239900,1981
+357,"9-1259 rue Joseph-Janot, Pointe-Aux-Trembles / Montréal-Est, QC",822.04 ft² (76.37 m²),,1.5,2.0,Condominium,2.0,,H1A 4Y7,169000,1987
+358,"104-3300 boulevard Cavendish, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",637 ft² (59.18 m²),South,1.0,1.0,Condominium,1.0,,H4B 2M8,229000,2013
+359,"415-9433 rue Hochelaga, Mercier / Hochelaga / Maisonneuve, QC",1 022.57 ft² (95.00 m²),,1.0,3.0,Condominium,3.0,,H1L 2P7,280000,2015
+360,"307-5 rue Dante, Rosemont / La Petite Patrie, QC","1,140 ft² (105.91 m²)",,2.0,1.0,Condominium,3.0,,H2S 1J6,675000,2014
+361,"8-1941 avenue de Lorimier, Ville-Marie (Centre-Ville et Vieux Mtl), QC",86 m² (925.70 ft²),South-East,1.0,2.0,Condominium,3.0,,H2K 3W8,399000,2005
+362,"379 rue du Square-Sir-George-Étienne-Cartier, Le Sud-Ouest, QC","1,250 ft² (116.13 m²)",,1.0,2.0,Condominium,2.0,,H4C 3A3,685000,1910
+363,"205-6565 rue Collins, Côte-St-Luc / Hampstead / Montréal-Ouest, QC",113.8 m² (1 224.93 ft²),South-West,2.0,2.0,Condominium,2.0,,H4W 3H3,317000,1989
+364,"205-6565 rue Collins, Côte-St-Luc / Hampstead / Montréal-Ouest, QC",113.8 m² (1 224.93 ft²),South-West,2.0,2.0,Condominium,2.0,,H4W 3H3,317000,1989
+365,"10292 rue André-Jobin, Ahuntsic / Cartierville, QC",916 ft² (85.10 m²),,1.0,2.0,Condominium,1.0,,H2B 2V8,303900,2002
+366,"148-2530 place Michel-Brault, Rosemont / La Petite Patrie, QC",1 097 ft² (101.91 m²),South-East,2.0,3.0,Condominium,,478800.0,H1Y 0B6,538000,2015
+367,"509-10011 boulevard Pie IX, Montréal-Nord, QC",64.4 m² (693.20 ft²),South-East,1.0,1.0,Condominium,5.0,,H1H 0A8,170000,2013
+368,"2310-3535 avenue Papineau, Le Plateau-Mont-Royal, QC",1 280 ft² (118.92 m²),,1.0,2.0,Condominium,23.0,,H2K 4J9,450000,1973
+369,"15991 rue Forsyth, Pointe-Aux-Trembles / Montréal-Est, QC",754.12 ft² (70.06 m²),East,1.5,1.0,Condominium,,112000.0,H1A 5M3,124900,1995
+370,"316-5661 avenue de Chateaubriand, Rosemont / La Petite Patrie, QC",1 098 ft² (102.01 m²),,2.0,3.0,Condominium,3.0,,H2S 0B6,535000,2011
+371,"405-420 19e Avenue, Lachine, QC",775 ft² (72.00 m²),,1.0,1.0,Condominium,4.0,212800.0,H8S 3S2,240000,2015
+372,"561 rue de la Métairie, L'Ile Des Soeurs, QC",95.3 m² (1 025.80 ft²),South,1.0,2.0,Condominium,1.0,,H3E 1S4,378900,1988
+373,"3101-1288 avenue des Canadiens-de-Montréal, Ville-Marie (Centre-Ville et Vieux Mtl), QC",889 ft² (82.59 m²),,2.0,2.0,Condominium,31.0,615500.0,H3B 3B3,675000,2016
+374,"709-4500 chemin de la Côte-des-Neiges, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",537.12 ft² (49.90 m²),,1.0,1.0,Condominium,7.0,,H3V 0A1,355000,2012
+375,"336-A rue Baldwin, Mercier / Hochelaga / Maisonneuve, QC",775 ft² (72.00 m²),South,1.0,1.0,Condominium,,,H1L 5A3,196000,2014
+376,"2230 avenue du Mont-Royal Est, Le Plateau-Mont-Royal, QC",1 700 ft² (157.94 m²),,2.5,2.0,Condominium,3.0,,H2H 1K4,669000,1924
+377,"101-1554 rue Viel, Ahuntsic / Cartierville, QC",850 ft² (78.97 m²),,1.0,1.0,Condominium,2.0,,H3M 1G5,229900,1988
+378,"002-5435 rue Saint-Denis, Le Plateau-Mont-Royal, QC",62.8 m² (675.97 ft²),East,1.0,2.0,Condominium,1.0,,H2J 4B7,299900,2011
+379,"2-2057 53e Avenue, Pointe-Aux-Trembles / Montréal-Est, QC",1 055 ft² (98.01 m²),North-East,1.0,2.0,Condominium,2.0,191100.0,H1A 2V3,192500,2007
+380,"107-6851 boulevard des Roseraies, Anjou, QC",61.9 m² (666.29 ft²),,1.0,1.0,Condominium,1.0,153033.0,H1M 3N3,169500,1989
+381,"111-350 rue Éléanor, Griffintown, QC",1 293.82 ft² (120.20 m²),,2.5,3.0,Condominium,,,H3C 0T5,645000,2018
+382,"16253 boulevard Gouin Ouest, L'île-Bizard / Sainte-Geneviève, QC","1,148 ft² (106.65 m²)",East,1.0,2.0,Condominium,1.0,252000.0,H9H 1E2,299999,2011
+383,"419-7020 rue Allard, LaSalle, QC",841 ft² (78.13 m²),North-West,1.0,2.0,Condominium,4.0,,H8N 0C5,350000,2014
+384,"108-13101 rue Notre-Dame Est, Pointe-Aux-Trembles / Montréal-Est, QC",851 ft² (79.06 m²),North-West,1.0,1.0,Condominium,1.0,166900.0,H1A 1S4,200000,1995
+385,"221-3311 boulevard Saint-Joseph Est, Villeray / St-Michel / Parc-Extension, QC",770 ft² (71.54 m²),North,1.5,1.0,Condominium,2.0,,H1X 1W3,260000,2012
+386,"310-2117 rue Tupper, Ville-Marie (Centre-Ville et Vieux Mtl), QC",49.4 m² (531.74 ft²),,1.0,1.0,Condominium,3.0,,H3H 0B2,394000,2017
+387,"133 31e Avenue, Pointe-Aux-Trembles / Montréal-Est, QC",78.5 m² (844.97 ft²),East,1.0,2.0,Condominium,1.0,152500.0,H1A 3M6,200000,1994
+388,"3-5989 23e Avenue, Rosemont / La Petite Patrie, QC",978.43 ft² (90.90 m²),,1.0,2.0,Condominium,2.0,308500.0,H1T 3N1,339900,2012
+389,"607-8580 rue Raymond-Pelletier, Ahuntsic / Cartierville, QC",834.2 ft² (77.50 m²),East,1.0,1.0,Condominium,6.0,281800.0,H2M 2W7,317300,2004
+390,"208-6510 44e avenue Est, Rosemont / La Petite Patrie, QC",992 ft² (92.16 m²),North-West,1.0,2.0,Condominium,2.0,,H1T 2P1,269000,2006
+391,"207-440 19e Avenue, Lachine, QC",507 ft² (47.10 m²),East,1.0,1.0,Condominium,2.0,,H8S 3S2,178000,2014
+392,"5-3925 avenue du Mont-Royal Est, Rosemont / La Petite Patrie, QC",1 003 ft² (93.18 m²),,1.0,2.0,Condominium,2.0,312100.0,H1X 1Y2,329000,2005
+393,"A-3818 rue Berri, Le Plateau-Mont-Royal, QC",1 500 ft² (139.35 m²),South-West,2.0,2.0,Condominium,3.0,,H2L 4H1,998000,2012
+394,"310-440 rue de la Gauchetière Est, Ville-Marie (Centre-Ville et Vieux Mtl), QC",868 ft² (80.64 m²),South,2.0,2.0,Condominium,3.0,,H2L 2M5,410000,2013
+395,"204-8102 boulevard Gouin Est, Rivière des Prairies, QC",1 110 ft² (103.12 m²),,1.0,2.0,Condominium,2.0,,H1E 1B6,179900,1991
+396,"302-7065 place Joseph-Michaud, Rivière des Prairies, QC",1 341 ft² (124.58 m²),South,1.0,2.0,Condominium,3.0,231800.0,H1E 6K6,275000,1987
+397,"1463 boulevard Alexis-Nihon, Saint-Laurent, QC",1 550 ft² (144.00 m²),,1.5,3.0,Condominium,,406400.0,H4R 2R4,524500,1994
+398,"208-7210 21e Avenue, Villeray / St-Michel / Parc-Extension, QC",1 094.6 ft² (101.69 m²),,1.0,3.0,Condominium,2.0,301900.0,H2A 2J5,339000,2012
+399,"206-19500 rue du Sulky, Pierrefonds / Roxboro, QC",1 401 ft² (130.16 m²),South,2.0,3.0,Condominium,2.0,,H9K 0B5,425000,2015
+400,"2203-7441 avenue des Halles, Anjou, QC",625 ft² (58.06 m²),,1.5,1.0,Condominium,2.0,,H1M 3T4,168500,1997
+401,"908-185 rue du Séminaire, Griffintown, QC","1,303 ft² (121.05 m²)",,2.0,2.0,Condominium,9.0,,H3C 2A3,775000,2013
+402,"2603-495 avenue Viger Ouest, Ville-Marie (Centre-Ville et Vieux Mtl), QC",600 ft² (55.74 m²),,1.0,1.0,Condominium,26.0,445600.0,H2Z 0B1,449500,2014
+403,"310-5232 rue du Sureau, Pierrefonds / Roxboro, QC",975 ft² (90.58 m²),,1.0,2.0,Condominium,3.0,279900.0,H8Z 0A4,288889,2009
+404,"16143 rue Victoria, Pointe-Aux-Trembles / Montréal-Est, QC",1 060 ft² (98.48 m²),East,1.0,3.0,Condominium,1.0,236266.0,H1A 5P9,229000,2003
+405,"510-4900 boulevard de l'Assomption, Rosemont / La Petite Patrie, QC",86.7 m² (933.23 ft²),,2.0,2.0,Condominium,5.0,392200.0,H1T 0A3,430000,2011
+406,"3568 rue Dorion, Le Plateau-Mont-Royal, QC",1 850 ft² (171.87 m²),South-West,1.5,2.0,Condominium,1.0,837000.0,H2K 4B6,590000,1910
+407,"817-4950 rue de la Savane, Côte-des-Neiges / Notre-Dame-de-Grâce, QC","1,193 ft² (110.83 m²)",,1.0,3.0,Condominium,8.0,,H4P 1T7,375000,2008
+408,"16-433 boulevard Saint-Joseph Ouest, Outremont, QC",831 ft² (77.20 m²),,1.0,1.0,Condominium,3.0,,H2V 2P3,439000,1937
+409,"301-14360 rue Notre Dame Est, Pointe-Aux-Trembles / Montréal-Est, QC",1 188.34 ft² (110.40 m²),South-West,1.5,2.0,Condominium,3.0,317700.0,H1A 1V4,349000,1991
+410,"1146-1414 rue Chomedey, Ville-Marie (Centre-Ville et Vieux Mtl), QC",64.6 m² (695.35 ft²),,1.0,2.0,Condominium,11.0,412100.0,H3H 0A2,520000,2013
+411,"209-6891 avenue Christophe-Colomb, Rosemont / La Petite Patrie, QC",833 ft² (77.39 m²),East,1.5,1.0,Condominium,2.0,,H2S 2H3,425000,2016
+412,"1-7880 boulevard Perras, Rivière des Prairies, QC",12.59x6.58 m (41.31x21.59 ft),,1.0,2.0,Condominium,1.0,156600.0,H1E 4X2,165000,1984
+413,"1503-441 avenue du Président-Kennedy, Ville-Marie (Centre-Ville et Vieux Mtl), QC",704 ft² (65.40 m²),,1.0,1.0,Condominium,15.0,362100.0,H3A 0A4,384000,2007
+414,"8-14666 rue Lirette, Pierrefonds / Roxboro, QC",68.7 m² (739.48 ft²),South-East,1.0,1.0,Condominium,2.0,165100.0,H9H 5E7,180000,1990
+415,"302-600 76e Avenue, LaSalle, QC",833 ft² (77.39 m²),,1.0,1.0,Condominium,3.0,,H8R 0B8,262500,2010
+416,"306-5282 rue du Sureau, Pierrefonds / Roxboro, QC",890 ft² (82.68 m²),West,1.0,1.0,Condominium,3.0,212800.0,H8Z 0A5,232900,2011
+417,"208-1111 rue Arthur-Lismer, Ahuntsic / Cartierville, QC",59.9 m² (644.76 ft²),,1.0,1.0,Condominium,2.0,169533.0,H4N 3J3,190000,1994
+418,"326-2530 place Michel-Brault, Rosemont / La Petite Patrie, QC",962 ft² (89.37 m²),,1.0,2.0,Condominium,3.0,,H1Y 0B6,375000,2015
+419,"418-2530 place Michel-Brault, Le Plateau-Mont-Royal, QC",473 ft² (43.94 m²),North,1.5,0.0,Condominium,4.0,,H1Y 0B6,207000,2015
+420,"102-2660 rue Nicolet, Mercier / Hochelaga / Maisonneuve, QC",705 ft² (65.50 m²),,1.0,2.0,Condominium,1.0,,H1W 3L5,215000,2009
+421,"109-5720 chemin Upper-Lachine, Côte-des-Neiges / Notre-Dame-de-Grâce, QC","1,004 ft² (93.27 m²)",,1.0,2.0,Condominium,1.0,,H4A 2B2,325000,2014
+422,"15875 rue Victoria, Pointe-Aux-Trembles / Montréal-Est, QC",900 ft² (83.61 m²),North,1.0,2.0,Condominium,2.0,143000.0,H1A 5P1,139900,1996
+423,"301-1511 boulevard Shevchenko, LaSalle, QC",1 009.66 ft² (93.80 m²),North-East,1.0,2.0,Condominium,3.0,238100.0,H8N 1P2,294000,2003
+424,"706-10332 rue Paul-Comtois, Ahuntsic / Cartierville, QC",830 ft² (77.11 m²),North-West,1.0,2.0,Condominium,7.0,,H4N 3B5,215000,1988
+425,"2104-495 avenue Viger Ouest, Ville-Marie (Centre-Ville et Vieux Mtl), QC",625 ft² (58.06 m²),,1.0,1.0,Condominium,21.0,358400.0,H2Z 0B1,439000,2014
+426,"301-126 Boul Hymus, Pointe-Claire, QC",780 ft² (72.46 m²),South-West,1.0,2.0,Condominium,3.0,,H9R 1E8,299000,2013
+427,"3-5119 rue Saint-Ambroise, Le Sud-Ouest, QC","1,210 ft² (112.41 m²)",North,1.0,2.0,Condominium,3.0,,H4C 2E9,525000,2009
+428,"11015 avenue Lausanne, Montréal-Nord, QC",100 m² (1 076.39 ft²),,1.0,3.0,Condominium,1.0,,H1H 5B6,272000,2012
+429,"511-711 rue de la Commune Ouest, Ville-Marie (Centre-Ville et Vieux Mtl), QC",658 ft² (61.13 m²),,1.0,1.0,Condominium,5.0,345000.0,H3C 0P1,363000,2014
+430,"353 rue Saint-Hubert, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 835.26 ft² (170.50 m²),,2.0,4.0,Condominium,1.0,,H2L 0A5,1249000,2007
+431,"206-680 chemin Bord-du-Lac-Lakeshore, Dorval / L'Île Dorval, QC",798 ft² (74.14 m²),,1.0,1.0,Condominium,2.0,,H9S 2B8,315000,2013
+432,"302-7627 rue André-Arnoux, Rivière des Prairies, QC",1 095 ft² (101.73 m²),,1.5,2.0,Condominium,3.0,239700.0,H1E 7G1,260000,2003
+433,"213-230 chemin du Golf, L'Ile Des Soeurs, QC",997 ft² (92.62 m²),,2.0,2.0,Condominium,2.0,,H3E 2A8,450000,2005
+434,"9-2510 rue Lyall, Mercier / Hochelaga / Maisonneuve, QC",1 039 ft² (96.53 m²),,1.0,2.0,Condominium,4.0,260000.0,H1N 3G6,232000,1964
+435,"202-12032 rue Lachapelle, Ahuntsic / Cartierville, QC","1,200 ft² (111.48 m²)",,1.5,3.0,Condominium,2.0,245000.0,H4J 2M4,306000,1995
+436,"1007-3581 boulevard Gouin Est, Montréal-Nord, QC",840 ft² (78.04 m²),South-West,1.0,1.0,Condominium,10.0,258100.0,H1H 0A1,292000,2007
+437,"504-795 rue Muir, Saint-Laurent, QC",1 625 ft² (150.97 m²),,2.0,3.0,Condominium,5.0,430600.0,H4L 5H8,487000,1990
+438,"209-680 chemin du Bord-du-Lac Lakeshore, Dorval / L'Île Dorval, QC",987.05 ft² (91.70 m²),South,1.5,2.0,Condominium,2.0,,H9S 2B8,439000,2013
+439,"7-107 rue McVey, LaSalle, QC",952.6 ft² (88.50 m²),,1.0,2.0,Condominium,3.0,257000.0,H8R 3T3,295000,2008
+440,"3-1405 rue Bélanger, Rosemont / La Petite Patrie, QC",800 ft² (74.32 m²),North-West,1.0,2.0,Condominium,2.0,,H2G 1A3,298000,1936
+441,"283-15500 rue Sherbrooke Est, Pointe-Aux-Trembles / Montréal-Est, QC",895 ft² (83.15 m²),West,1.0,1.0,Condominium,3.0,,H1A 5V2,180000,2005
+442,"3492 rue Dorion, Le Plateau-Mont-Royal, QC",57.7 m² (621.08 ft²),South-West,1.0,1.0,Condominium,3.0,250100.0,H2K 4B6,290000,1910
+443,"3106-1050 rue Drummond, Ville-Marie (Centre-Ville et Vieux Mtl), QC",806 ft² (74.88 m²),North-West,2.0,1.0,Condominium,31.0,,H3B 0G3,688000,2017
+444,"210-5282 rue du Sureau, Pierrefonds / Roxboro, QC",1 050 ft² (97.55 m²),,2.0,2.0,Condominium,2.0,,H8Z 0A5,280000,2011
+445,"PH-801-7317 avenue Victoria, Côte-des-Neiges / Notre-Dame-de-Grâce, QC","1,048.4 ft² (97.40 m²)",North-West,2.0,2.0,Condominium,8.0,432767.0,H4P 0A3,499900,2013
+446,"208-460 19e Avenue, Lachine, QC",1 024 ft² (95.13 m²),,1.5,0.0,Condominium,2.0,,H8S 3S2,255000,2012
+447,"9-2505 avenue Van Horne, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",1 200 ft² (111.48 m²),,1.0,3.0,Condominium,2.0,,H3S 1P5,425000,1949
+448,"8490 boulevard Saint-Michel, Villeray / St-Michel / Parc-Extension, QC",950 ft² (88.26 m²),South-East,1.0,2.0,Condominium,,,H1Z 3E8,220000,2009
+449,"702-4975 rue Jean-Talon O, Côte-des-Neiges / Notre-Dame-de-Grâce, QC",72.2 m² (777.15 ft²),West,1.0,2.0,Condominium,7.0,265400.0,H4P 1W7,399000,2012
+450,"314-8635 rue Lajeunesse, Villeray / St-Michel / Parc-Extension, QC",737 ft² (68.47 m²),South-West,1.0,1.0,Condominium,3.0,,H2P 0B5,306000,2012
+451,"690 rue Saint-André, Ville-Marie (Centre-Ville et Vieux Mtl), QC",1 571 ft² (145.95 m²),West,1.5,3.0,Condominium,2.0,,H2L 5B9,574990,2003
+452,"406-6715 boulevard Maurice-Duplessis, Montréal-Nord, QC",59.9 m² (644.76 ft²),South,1.0,1.0,Condominium,4.0,150100.0,H1G 1Z5,159900,2012
